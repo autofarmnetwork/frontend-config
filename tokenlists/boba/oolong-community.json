@@ -1,0 +1,75 @@
+{
+  "name": "Boba Community TL",
+  "timestamp": "2022-02-04T14:24:58.150Z",
+  "version": {
+    "major": 7,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0xa18bF3994C0Cc6E3b63ac420308E5383f53120D7/logo.png",
+  "keywords": [
+    "oolongswap",
+    "boba",
+    "community"
+  ],
+  "tokens": [
+    {
+      "name": "AlphaCyber",
+      "address": "0x641e3C61DBFc5C9eD8f620eb474271cd4439f7d5",
+      "symbol": "aCYBER",
+      "decimals": 18,
+      "chainId": 288,
+      "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0x641e3C61DBFc5C9eD8f620eb474271cd4439f7d5/logo.png"
+    },
+    {
+      "name": "Banana",
+      "address": "0xc67b9B1B0557aeAfA10AA1fFa1d7c87087a6149E",
+      "symbol": "BANA",
+      "decimals": 18,
+      "chainId": 288,
+      "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0xc67b9B1B0557aeAfA10AA1fFa1d7c87087a6149E/logo.png"
+    },
+    {
+      "name": "BobaDoge",
+      "address": "0x121636C43E96D97AB00B6c6994cDDEBEf27dE1C7",
+      "symbol": "BDoge",
+      "decimals": 18,
+      "chainId": 288,
+      "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0x121636C43E96D97AB00B6c6994cDDEBEf27dE1C7/logo.png"
+    },
+    {
+      "name": "BoringDAO",
+      "address": "0x017Ff87AB312301aDE54f7cf9Cc5AEA28C9De024",
+      "symbol": "BORING",
+      "decimals": 18,
+      "chainId": 288,
+      "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0x017Ff87AB312301aDE54f7cf9Cc5AEA28C9De024/logo.png"
+    },
+    {
+      "name": "BobaTeaInu",
+      "address": "0x9c3a582A678BE0B0E954d7a5C07b0C7Eb8EF1e03",
+      "symbol": "BTEA",
+      "decimals": 9,
+      "chainId": 288,
+      "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0x9c3a582A678BE0B0E954d7a5C07b0C7Eb8EF1e03/logo.png"
+    },
+    {
+      "name": "Boba WAGMI v0 Option",
+      "address": "0x8493C4d9Cd1a79be0523791E3331c78Abb3f9672",
+      "symbol": "WAGMIV0",
+      "decimals": 18,
+      "chainId": 288,
+      "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0x8493C4d9Cd1a79be0523791E3331c78Abb3f9672/logo.png"
+    },
+    {
+      "name": "Zencha",
+      "address": "0x7445Efc8A6F1279434133408BEdeb6Eb4d1537Ab",
+      "symbol": "ZENC",
+      "decimals": 18,
+      "chainId": 288,
+      "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0x7445Efc8A6F1279434133408BEdeb6Eb4d1537Ab/logo.png"
+    }
+  ]
+}
+

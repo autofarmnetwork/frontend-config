@@ -1,0 +1,146 @@
+{
+    "name": "Cronos Token List",
+    "timestamp": "2021-07-08T07:24:15.408Z",
+    "version": {
+        "major": 7,
+        "minor": 0,
+        "patch": 0
+    },
+    "tags": {},
+    "logoURI": "https://photonswap.finance/cro.png",
+    "keywords": [
+        "CRONOS",
+        "default"
+    ],
+    "tokens": [
+        {
+            "name": "Wrapped CRO",
+            "address": "0x5C7F8A570d578ED84E63fdFA7b1eE72dEae1AE23",
+            "symbol": "wCRO",
+            "decimals": 18,
+            "chainId": 25,
+            "logoURI": "https://photonswap.finance/cro.png"
+        },
+        {
+            "name": "PhotonSwap",
+            "address": "0xbdd4e5660839a088573191A9889A262c0Efc0983",
+            "symbol": "PHOTON",
+            "decimals": 18,
+            "chainId": 25,
+            "logoURI": "https://photonswap.finance/photon.png"
+        },
+        {
+            "name": "DexPad Token",
+            "address": "0xe0c41FF9a7032de445771E12C14868CbE061C993",
+            "symbol": "DxP",
+            "decimals": 18,
+            "chainId": 25,
+            "logoURI": "https://photonswap.finance/dxp.png"
+        },
+        {
+            "name": "IcyCRO",
+            "address": "0x8F857Af6Ea31447Bb502fE0E3F4e4340CDFCfc6C",
+            "symbol": "ICY",
+            "decimals": 18,
+            "chainId": 25,
+            "logoURI": "https://pbs.twimg.com/profile_images/1437465162697646081/r_gd5J0c_400x400.jpg"
+        },
+        {
+            "name": "CrystalToken",
+            "address": "0xCbDE0E17d14F49e10a10302a32d17AE88a7Ecb8B",
+            "symbol": "CRYSTL",
+            "decimals": 18,
+            "chainId": 25,
+            "logoURI": "https://photonswap.finance/crystl.jpeg"
+        },
+        {
+            "name": "Elk",
+            "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
+            "symbol": "ELK",
+            "decimals": 18,
+            "chainId": 25,
+            "logoURI": "https://i.imgur.com/nwShsIt.png"
+        },
+        {
+            "name": "Tendies",
+            "address": "0x2fDcB16a977921FaDac3A9E03D18aDa77B4aA3F5",
+            "symbol": "TENDIES",
+            "decimals": 9,
+            "chainId": 25,
+            "logoURI": "https://raw.githubusercontent.com/tendiefrenco/tendies/main/logo%20128x128.png"
+        },
+        {
+            "name": "The Crocodile Token",
+            "address": "0x6665D66aFA48F527d86623723342CfA258cB8666",
+            "symbol": "CROX",
+            "decimals": 18,
+            "chainId": 25,
+            "logoURI": "https://crox.cc/assets/img/logo.png"
+        },
+        {
+            "name": "CROVID-19",
+            "address": "0x7F7BE9FD8a2d36ebf55faC9a062AaA738C114BE6",
+            "symbol": "CROVID",
+            "decimals": 4,
+            "chainId": 25,
+            "logoURI": "https://photonswap.finance/crovid.png"
+        },
+        {
+            "name": "Crodoge",
+            "address": "0xA7aaf2d57179BdA516374b9947e608D01F6ED0A4",
+            "symbol": "CRODOGE",
+            "decimals": 4,
+            "chainId": 25,
+            "logoURI": "https://photonswap.finance/crodoge.jpeg"
+        },
+        {
+            "name": "Wrapped Ether",
+            "address": "0xe44Fd7fCb2b1581822D0c862B68222998a0c299a",
+            "symbol": "ETH",
+            "decimals": 18,
+            "chainId": 25,
+            "logoURI": "https://raw.githubusercontent.com/photonswap-dev/default-token-list/master/logos/shared/wrappedETH.png"
+        },
+        {
+            "name": "Wrapped BTC",
+            "address": "0x062E66477Faf219F25D27dCED647BF57C3107d52",
+            "symbol": "BTC",
+            "decimals": 8,
+            "chainId": 25,
+            "logoURI": "https://raw.githubusercontent.com/photonswap-dev/default-token-list/master/logos/shared/wrappedBTC.png"
+        },
+        {
+            "name": "Tether",
+            "address": "0x66e428c3f67a68878562e79A0234c1F83c208770",
+            "symbol": "USDT",
+            "decimals": 6,
+            "chainId": 25,
+            "logoURI": "https://raw.githubusercontent.com/photonswap-dev/default-token-list/master/logos/shared/TETHER.png"
+        },
+        {
+            "name": "Dai Stablecoin",
+            "address": "0xF2001B145b43032AAF5Ee2884e456CCd805F677D",
+            "symbol": "DAI",
+            "decimals": 18,
+            "chainId": 25,
+            "logoURI": "https://raw.githubusercontent.com/photonswap-dev/default-token-list/master/logos/shared/DAI.png"
+        },
+        {
+            "name": "USD Coin",
+            "address": "0xc21223249CA28397B4B6541dfFaEcC539BfF0c59",
+            "symbol": "USDC",
+            "decimals": 6,
+            "chainId": 25,
+            "logoURI": "https://raw.githubusercontent.com/photonswap-dev/default-token-list/master/logos/shared/USDC.png"
+        },
+        {
+            "name": "ESSO",
+            "address": "0xc82eA25896F065cB6E3ae298cD1f23FE58516A35",
+            "symbol": "ESSO",
+            "decimals": 8,
+            "chainId": 25,
+            "logoURI": "https://photonswap.finance/esso.png"
+        }
+    ]
+}
+

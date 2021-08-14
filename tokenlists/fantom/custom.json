@@ -1,0 +1,54 @@
+{
+  "tokens": [
+    {
+      "name": "3OMB Token",
+      "address": "0x14DEf7584A6c52f470Ca4F4b9671056b22f4FfDE",
+      "symbol": "3OMB",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://tokens.autofarm.network/250-0x14def7584a6c52f470ca4f4b9671056b22f4ffde.webp"
+    },
+    {
+      "name": "3SHARE Token",
+      "address": "0x6437ADAC543583C4b31Bf0323A0870430F5CC2e7",
+      "symbol": "3SHARES",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://tokens.autofarm.network/250-0x6437adac543583c4b31bf0323a0870430f5cc2e7.webp"
+    },
+    {
+      "name": "2omb Token",
+      "address": "0x7a6e4E3CC2ac9924605DCa4bA31d1831c84b44aE",
+      "symbol": "2OMB",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://tokens.autofarm.network/250-0x7a6e4e3cc2ac9924605dca4ba31d1831c84b44ae.webp"
+    },
+    {
+      "name": "2SHARE Token",
+      "address": "0xc54A1684fD1bef1f077a336E6be4Bd9a3096a6Ca",
+      "symbol": "2SHARES",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://tokens.autofarm.network/250-0xc54a1684fd1bef1f077a336e6be4bd9a3096a6ca.webp"
+    },
+    {
+      "exclude": false,
+      "name": "Curve.fi WBTC/renBTC",
+      "address": "0x5B5CFE992AdAC0C9D48E05854B2d91C73a003858",
+      "symbol": "btcCRV",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://tokens.autofarm.network/250-0x5b5cfe992adac0c9d48e05854b2d91c73a003858.webp"
+    },
+    {
+      "exclude": false,
+      "name": "Curve.fi USD-BTC-ETH",
+      "address": "0x58e57cA18B7A47112b877E31929798Cd3D703b0f",
+      "symbol": "crv3crypto",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://tokens.autofarm.network/250-0x58e57ca18b7a47112b877e31929798cd3d703b0f.webp"
+    }
+  ]
+}

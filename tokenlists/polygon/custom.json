@@ -1,0 +1,39 @@
+{
+  "tokens": [
+    {
+      "name": "GOGO Coin",
+      "address": "0xdD2AF2E723547088D3846841fbDcC6A8093313d6",
+      "symbol": "GOGO",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://tokens.autofarm.network/137-0xdd2af2e723547088d3846841fbdcc6a8093313d6.png"
+    },
+    {
+      "exclude": true,
+      "name": "Curve.fi amDAI/amUSDC/amUSDT",
+      "address": "0xE7a24EF0C5e95Ffb0f6684b813A78F2a3AD7D171",
+      "symbol": "am3CRV",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://tokens.autofarm.network/137-0xe7a24ef0c5e95ffb0f6684b813a78f2a3ad7d171.webp"
+    },
+    {
+      "exclude": true,
+      "name": "Curve.fi amWBTC/renBTC",
+      "address": "0xf8a57c1d3b9629b77b6726a042ca48990A84Fb49",
+      "symbol": "btcCRV",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://tokens.autofarm.network/137-0xf8a57c1d3b9629b77b6726a042ca48990a84fb49.webp"
+    },
+    {
+      "exclude": true,
+      "name": "Curve USD-BTC-ETH",
+      "address": "0xdAD97F7713Ae9437fa9249920eC8507e5FbB23d3",
+      "symbol": "crvUSDBTCETH",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://tokens.autofarm.network/137-0xdad97f7713ae9437fa9249920ec8507e5fbb23d3.webp"
+    }
+  ]
+}

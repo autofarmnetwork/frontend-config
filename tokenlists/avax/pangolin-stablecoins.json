@@ -1,0 +1,97 @@
+{
+    "name": "AVAX Stablecoins",
+    "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xde3A24028580884448a5397872046a019649b084/logo.png",
+    "keywords": [
+        "avalanche",
+        "stablecoin"
+    ],
+    "version": {
+        "major": 3,
+        "minor": 0,
+        "patch": 0
+    },
+    "timestamp": "2021-09-11T14:30:00+00:00",
+    "tokens": [
+        {
+            "chainId": 43114,
+            "address": "0xc7198437980c041c805A1EDcbA50c1Ce5db95118",
+            "decimals": 6,
+            "name": "Tether USD",
+            "symbol": "USDT.e",
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/USDT/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664",
+            "decimals": 6,
+            "name": "USD Coin",
+            "symbol": "USDC.e",
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/USDC/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x1C20E891Bab6b1727d14Da358FAe2984Ed9B59EB",
+            "decimals": 18,
+            "name": "TrueUSD",
+            "symbol": "TUSD",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x1C20E891Bab6b1727d14Da358FAe2984Ed9B59EB/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xd586E7F844cEa2F87f50152665BCbc2C279D8d70",
+            "decimals": 18,
+            "name": "Dai Stablecoin",
+            "symbol": "DAI.e",
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/DAI/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0xDC42728B0eA910349ed3c6e1c9Dc06b5FB591f98",
+            "decimals": 18,
+            "name": "Frax",
+            "symbol": "FRAX",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xDC42728B0eA910349ed3c6e1c9Dc06b5FB591f98/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x564A341Df6C126f90cf3ECB92120FD7190ACb401",
+            "decimals": 6,
+            "name": "BiLira",
+            "symbol": "TRYB",
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x564A341Df6C126f90cf3ECB92120FD7190ACb401/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x19860CCB0A68fd4213aB9D8266F7bBf05A8dDe98",
+            "decimals": 18,
+            "name": "Binance USD",
+            "symbol": "BUSD.e",
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/BUSD/logo.png"
+        },
+        {
+            "address": "0x4fbf0429599460D327BD5F55625E30E4fC066095",
+            "chainId": 43114,
+            "name": "TSD",
+            "symbol": "TSD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x4fbf0429599460D327BD5F55625E30E4fC066095/logo.png"
+        },
+        {
+            "address": "0x3509f19581aFEDEff07c53592bc0Ca84e4855475",
+            "chainId": 43114,
+            "name": "xDollar Stablecoin",
+            "symbol": "xUSD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/xDollar-Finance/logo/master/logo_256x256.png"
+        },
+        {
+            "address": "0x130966628846BFd36ff31a822705796e8cb8C18D",
+            "chainId": 43114,
+            "name": "Magic Internet Money",
+            "symbol": "MIM",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x130966628846BFd36ff31a822705796e8cb8C18D/logo.png"
+        }
+    ]
+}
+

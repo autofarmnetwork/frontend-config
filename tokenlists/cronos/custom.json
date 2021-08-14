@@ -1,0 +1,12 @@
+{
+  "tokens": [
+    {
+      "name": "TrueUSD",
+      "address": "0x87EFB3ec1576Dec8ED47e58B832bEdCd86eE186e",
+      "symbol": "TUSD",
+      "decimals": 18,
+      "chainId": 25,
+      "logoURI": "https://tokens.autofarm.network/25-0x87efb3ec1576dec8ed47e58b832bedcd86ee186e.webp"
+    }
+  ]
+}

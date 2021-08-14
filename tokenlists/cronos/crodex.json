@@ -1,0 +1,202 @@
+{
+  "name": "ERC20 Token List",
+  "timestamp": "2021-07-08T07:24:15.408Z",
+  "version": {
+    "major": 1,
+    "minor": 9,
+    "patch": 29
+  },
+  "tags": {},
+  "logoURI": "https://swap.crodex.app/cro.png",
+  "keywords": [
+    "Cronos",
+    "default"
+  ],
+  "tokens": [
+    {
+      "name": "Crodex Token",
+      "address": "0xe243CCab9E66E6cF1215376980811ddf1eb7F689",
+      "symbol": "CRX",
+      "decimals": 18,
+      "chainId": 25,
+      "logoURI": "https://swap.crodex.app/crx.png"
+    },
+    {
+      "name": "Wrapped CRO",
+      "address": "0x5C7F8A570d578ED84E63fdFA7b1eE72dEae1AE23",
+      "symbol": "wCRO",
+      "decimals": 18,
+      "chainId": 25,
+      "logoURI": "https://swap.crodex.app/cro.png"
+    },
+    {
+      "name": "Wrapped ETH",
+      "address": "0xe44Fd7fCb2b1581822D0c862B68222998a0c299a",
+      "symbol": "wETH",
+      "decimals": 18,
+      "chainId": 25,
+      "logoURI": "https://cryptologos.cc/logos/ethereum-eth-logo.png?v=014"
+    },
+    {
+      "name": "Wrapped BTC",
+      "address": "0x062E66477Faf219F25D27dCED647BF57C3107d52",
+      "symbol": "wBTC",
+      "decimals": 8,
+      "chainId": 25,
+      "logoURI": "https://cryptologos.cc/logos/bitcoin-btc-logo.png?v=014"
+    },
+    {
+      "name": "USDC",
+      "address": "0xc21223249CA28397B4B6541dfFaEcC539BfF0c59",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 25,
+      "logoURI": "https://cryptologos.cc/logos/usd-coin-usdc-logo.png?v=014"
+    },
+    {
+      "name": "USDT",
+      "address": "0x66e428c3f67a68878562e79A0234c1F83c208770",
+      "symbol": "USDT",
+      "decimals": 6,
+      "chainId": 25,
+      "logoURI": "https://cryptologos.cc/logos/tether-usdt-logo.png?v=014"
+    },
+    {
+      "name": "DAI",
+      "address": "0xF2001B145b43032AAF5Ee2884e456CCd805F677D",
+      "symbol": "DAI",
+      "decimals": 18,
+      "chainId": 25,
+      "logoURI": "https://cryptologos.cc/logos/multi-collateral-dai-dai-logo.png?v=014"
+    },
+    {
+      "name": "MIM",
+      "address": "0x2BC472832Eb20C65F82d6A869db845aB0C0099ba",
+      "symbol": "MIM",
+      "decimals": 18,
+      "chainId": 25,
+      "logoURI": "https://assets.coingecko.com/coins/images/16786/small/mimlogopng.png"
+    },
+    {
+      "name": "miMatic",
+      "address": "0x1c965D8E53fb1a448789e2B0FA5abc3EB2c36993",
+      "symbol": "miMatic",
+      "decimals": 18,
+      "chainId": 25,
+      "logoURI": "https://assets.coingecko.com/coins/images/15264/small/mimatic-red.png"
+    },
+    {
+      "name": "RELAY",
+      "address": "0x9C29650a1B273A031A35F3121914aae882B144A4",
+      "symbol": "RELAY",
+      "decimals": 18,
+      "chainId": 25,
+      "logoURI": "https://assets.coingecko.com/coins/images/17816/small/relay-logo-200.png"
+    },
+    {
+      "name": "rAVAX",
+      "address": "0xe7e12F436ae05cE6623eFB68B28ca4b83A953600",
+      "symbol": "rAVAX",
+      "decimals": 18,
+      "chainId": 25,
+      "logoURI": "https://assets.coingecko.com/coins/images/12559/small/coin-round-red.png"
+    },
+    {
+      "name": "MATIC",
+      "address": "0xad79AC3c5a5c15C6B9194F5568e451b3fc3C2B40",
+      "symbol": "MATIC",
+      "decimals": 18,
+      "chainId": 25,
+      "logoURI": "https://assets.coingecko.com/coins/images/4713/small/matic-token-icon.png"
+    },
+    {
+      "name": "FreeRiver",
+      "address": "0x9209d64F2930DaAe334e0fc2939709E593A88041",
+      "symbol": "FreeRiver",
+      "decimals": 18,
+      "chainId": 25,
+      "logoURI": "https://assets.coingecko.com/coins/images/18448/small/freeriver.PNG"
+    },
+    {
+      "name": "CRODOGE",
+      "address": "0xa7aaf2d57179bda516374b9947e608d01f6ed0a4",
+      "symbol": "CRODOGE",
+      "decimals": 4,
+      "chainId": 25,
+      "logoURI": "https://swap.crodex.app/crodoge.png"
+    },
+    {
+      "name": "BUSD",
+      "address": "0x6ab6d61428fde76768d7b45d8bfeec19c6ef91a8",
+      "symbol": "BUSD",
+      "decimals": 18,
+      "chainId": 25,
+      "logoURI": "https://cryptologos.cc/logos/binance-usd-busd-logo.png?v=014"
+    },
+    {
+      "name": "Fantom",
+      "address": "0xB44a9B6905aF7c801311e8F4E76932ee959c663C",
+      "symbol": "FTM",
+      "decimals": 18,
+      "chainId": 25,
+      "logoURI": "https://cryptologos.cc/logos/fantom-ftm-logo.png?v=014"
+    },
+    {
+      "name": "CROSHIBA",
+      "address": "0x5617EA36c5da5dAFaB51A8634B02609459fEE94F",
+      "symbol": "CROSHIBA",
+      "decimals": 4,
+      "chainId": 25,
+      "logoURI": "https://croshiba.io/assets/images/image03.png?v=7af1a987"
+    },
+    {
+      "name": "TENDIES",
+      "address": "0x2fDcB16a977921FaDac3A9E03D18aDa77B4aA3F5",
+      "symbol": "TENDIES",
+      "decimals": 9,
+      "chainId": 25,
+      "logoURI": "https://raw.githubusercontent.com/tendiefrenco/tendies/main/logo%2025x25.png"
+    },
+    {
+      "name": "CroMoon",
+      "address": "0x7D30c36f845d1dEe79f852abF3A8A402fAdF3b53",
+      "symbol": "CroMoon",
+      "decimals": 9,
+      "chainId": 25,
+      "logoURI": "https://cromoon.net/wp-content/uploads/2021/11/cromoon-logo-icon.png"
+    },
+    {
+      "name": "CroFarm",
+      "address": "0x2f93f667308BFebEBaad78B36F8a25b65c8Ad721",
+      "symbol": "CroFarm",
+      "decimals": 18,
+      "chainId": 25,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/QmXLjWYfLFHop5pZpKt9iaNZFr2uNaRjbYRhB1dBG64NkV"
+    },
+    {
+      "name": "Croala",
+      "address": "0x087Ea07df57194894fDA680c6473f523654099E3",
+      "symbol": "Croala",
+      "decimals": 9,
+      "chainId": 25,
+      "logoURI": "https://swap.crodex.app/crola.png"
+    },
+    {
+      "name": "Crownos",
+      "address": "0x52ceA86846d437e0a41B4059EbA543a46296EB6C",
+      "symbol": "Crownos",
+      "decimals": 9,
+      "chainId": 25,
+      "logoURI": "https://crownosnft.mypinata.cloud/ipfs/QmWQgizzb2C5WKJygjnxo6C2xSZQ9kkt7pSNNSJNA4guzZ"
+    },
+    {
+      "name": "PolyDoge",
+      "address": "0x9b8077C6590b560f1A9D60512648277D29b35A3B",
+      "symbol": "PolyDoge",
+      "decimals": 18,
+      "chainId": 25,
+      "logoURI": "https://polydoge.com/doge-webpage_files/doge.png"
+    }
+  ]
+}
+

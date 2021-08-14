@@ -1,0 +1,76 @@
+{
+  "tokens": [
+    {
+      "address": "0x5C7F8A570d578ED84E63fdFA7b1eE72dEae1AE23",
+      "name": "Wrapped CRO",
+      "symbol": "WCRO",
+      "decimals": 18,
+      "chainId": 25,
+      "logoURI": "https://smolswap.sgp1.digitaloceanspaces.com/tokens/cro.png"
+    },
+    {
+      "address": "0x2Ad63Da83d6ff5dA9E716DcaE844D4f157405BDd",
+      "name": "Smolswap",
+      "symbol": "SMOL",
+      "decimals": 18,
+      "chainId": 25,
+      "logoURI": "https://smolswap.sgp1.digitaloceanspaces.com/logo.png"
+    },
+    {
+      "address": "0x062E66477Faf219F25D27dCED647BF57C3107d52",
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "chainId": 25,
+      "logoURI": "https://smolswap.sgp1.digitaloceanspaces.com/tokens/btc.png"
+    },
+    {
+      "address": "0xe44Fd7fCb2b1581822D0c862B68222998a0c299a",
+      "name": "Wrapped ETH",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 25,
+      "logoURI": "https://smolswap.sgp1.digitaloceanspaces.com/tokens/eth.png"
+    },
+    {
+      "address": "0x66e428c3f67a68878562e79A0234c1F83c208770",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "chainId": 25,
+      "logoURI": "https://smolswap.sgp1.digitaloceanspaces.com/tokens/usdt.png"
+    },
+    {
+      "address": "0xF2001B145b43032AAF5Ee2884e456CCd805F677D",
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "decimals": 18,
+      "chainId": 25,
+      "logoURI": "https://smolswap.sgp1.digitaloceanspaces.com/tokens/dai.png"
+    },
+    {
+      "address": "0xc21223249CA28397B4B6541dfFaEcC539BfF0c59",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 25,
+      "logoURI": "https://smolswap.sgp1.digitaloceanspaces.com/tokens/usdc.png"
+    },
+    {
+      "address": "0xfA9343C3897324496A05fC75abeD6bAC29f8A40f",
+      "name": "Binance",
+      "symbol": "BNB",
+      "decimals": 18,
+      "chainId": 25,
+      "logoURI": "https://smolswap.sgp1.digitaloceanspaces.com/tokens/bnb.png"
+    },
+    {
+      "address": "0x0dCb0CB0120d355CdE1ce56040be57Add0185BAa",
+      "name": "AUTOv2",
+      "symbol": "AUTO",
+      "decimals": 18,
+      "chainId": 25,
+      "logoURI": "https://smolswap.sgp1.digitaloceanspaces.com/tokens/auto.png"
+    }
+  ]
+}

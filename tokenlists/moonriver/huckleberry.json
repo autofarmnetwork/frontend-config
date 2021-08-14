@@ -1,0 +1,212 @@
+{
+  "name": "HUCKLEBERRY",
+  "logoURI": "https://huckleberry-interface.vercel.app/favicon.png",
+  "keywords": [
+    "defi",
+    "huckleberry",
+    "yield"
+  ],
+  "timestamp": "2020-08-25T01:40:34.305Z",
+  "tokens": [
+    {
+      "name": "Wrapped MOVR",
+      "address": "0x98878B06940aE243284CA214f92Bb71a2b032B8A",
+      "symbol": "WMOVR",
+      "decimals": 18,
+      "chainId": 1285,
+      "logoURI": "https://token-icons.vercel.app/icon/others/WMOVR.png"
+    },
+    {
+      "name": "BTC@Moonriver",
+      "address": "0x78F811A431D248c1EDcF6d95ec8551879B2897C3",
+      "symbol": "BTC.m",
+      "decimals": 8,
+      "chainId": 1285,
+      "logoURI": "https://token-icons.vercel.app/icon/others/wanBTC.png"
+    },
+    {
+      "name": "ETH@Moonriver",
+      "address": "0x576fDe3f61B7c97e381c94e7A03DBc2e08Af1111",
+      "symbol": "ETH.m",
+      "decimals": 18,
+      "chainId": 1285,
+      "logoURI": "https://token-icons.vercel.app/icon/others/wanETH.png"
+    },
+    {
+      "name": "LTC@Moonriver",
+      "address": "0xDD7f2BC5f0Ef210CA183349Ae90785fdfb374AE7",
+      "symbol": "LTC.m",
+      "decimals": 8,
+      "chainId": 1285,
+      "logoURI": "https://token-icons.vercel.app/icon/others/wanLTC.png"
+    },
+    {
+      "name": "XRP@Moonriver",
+      "address": "0x9D5bc9B873AeD984e2B6A64d4792249D68BbA2Fe",
+      "symbol": "XRP.m",
+      "decimals": 6,
+      "chainId": 1285,
+      "logoURI": "https://token-icons.vercel.app/icon/others/wanXRP.png"
+    },
+    {
+      "name": "Wanchain Currency",
+      "address": "0x41562ae242d194247389152aCAa7a9397136b09F",
+      "symbol": "WAN.m",
+      "decimals": 18,
+      "chainId": 1285,
+      "logoURI": "https://token-icons.vercel.app/icon/others/WWAN.png"
+    },
+    {
+      "name": "USDT@Moonriver",
+      "address": "0xe936caa7f6d9f5c9e907111fcaf7c351c184cda7",
+      "symbol": "USDT.m",
+      "decimals": 6,
+      "chainId": 1285,
+      "logoURI": "https://token-icons.vercel.app/icon/others/wanUSDT.png"
+    },
+    {
+      "name": "USDC@Moonriver",
+      "address": "0x748134b5f553f2bcbd78c6826de99a70274bdeb3",
+      "symbol": "USDC.m",
+      "decimals": 6,
+      "chainId": 1285,
+      "logoURI": "https://token-icons.vercel.app/icon/others/wanUSDC.png"
+    },
+    {
+      "name": "FINN",
+      "address": "0x9A92B5EBf1F6F6f7d93696FCD44e5Cf75035A756",
+      "symbol": "FINN",
+      "decimals": 18,
+      "chainId": 1285,
+      "logoURI": "https://token-icons.vercel.app/icon/others/FINN.png"
+    },
+    {
+      "name": "DOT.m",
+      "address": "0x15b9ca9659f5dff2b7d35a98dd0790a3cbb3d445",
+      "symbol": "DOT.m",
+      "decimals": 10,
+      "chainId": 1285,
+      "logoURI": "https://token-icons.vercel.app/icon/others/DOT.png"
+    },
+    {
+      "name": "AVAX.m",
+      "address": "0xc005a7a1502c9de16ccdaba7cda0cee4ac304993",
+      "symbol": "AVAX.m",
+      "decimals": 18,
+      "chainId": 1285,
+      "logoURI": "https://token-icons.vercel.app/icon/others/AVAX.png"
+    },
+    {
+      "name": "MOONKAFE",
+      "address": "0x52f04C806EB82930F40D410259b7AF8E18d3BDc9",
+      "symbol": "KAFE",
+      "decimals": 18,
+      "chainId": 1285,
+      "logoURI": "https://token-icons.vercel.app/icon/others/KAFE.png"
+    },
+    {
+      "name": "MoonBeans",
+      "address": "0xC2392DD3e3fED2c8Ed9f7f0bDf6026fcd1348453",
+      "symbol": "BEANS",
+      "decimals": 18,
+      "chainId": 1285,
+      "logoURI": "https://token-icons.vercel.app/icon/others/BEANS.png"
+    },
+    {
+      "name": "RivrDoge",
+      "address": "0x5D4360f1Be94bD6f182F09cFE5EF9832e65EB1ac",
+      "symbol": "RivrDoge",
+      "decimals": 18,
+      "chainId": 1285,
+      "logoURI": "https://token-icons.vercel.app/icon/others/RivrDoge.png"
+    },
+    {
+      "name": "DOGE.m",
+      "address": "0xb668Cd490a4421F993f93be2819A922DBbB32804",
+      "symbol": "DOGE.m",
+      "decimals": 8,
+      "chainId": 1285,
+      "logoURI": "https://token-icons.vercel.app/icon/DOGE.png"
+    },
+    {
+      "name": "FTM.m",
+      "address": "0xd924f195c6012c301f42290cf0fde385a66039de",
+      "symbol": "FTM.m",
+      "decimals": 18,
+      "chainId": 1285,
+      "logoURI": "https://token-icons.vercel.app/icon/others/FTM.png"
+    },
+    {
+      "name": "RivrKitty",
+      "address": "0xc2b0435276139731d82ae2fa8928c9b9de0761c1",
+      "symbol": "RKITTY",
+      "decimals": 18,
+      "chainId": 1285,
+      "logoURI": "https://token-icons.vercel.app/icon/others/RKITTY.png"
+    },
+
+
+    {
+      "name": "Wrapped DEV",
+      "address": "0x372d0695E75563D9180F8CE31c9924D7e8aaac47",
+      "symbol": "WDEV",
+      "decimals": 18,
+      "chainId": 1287,
+      "logoURI": "https://token-icons.vercel.app/icon/others/DEV.png"
+    },
+    {
+      "name": "BTC@MoonbaseAlpha",
+      "address": "0xC6Ae1Db6C66d909F7bFEeEb24F9adb8620bf9dbf",
+      "symbol": "BTC.m",
+      "decimals": 8,
+      "chainId": 1287,
+      "logoURI": "https://token-icons.vercel.app/icon/others/wanBTC.png"
+    },
+    {
+      "name": "ETH@MoonbaseAlpha",
+      "address": "0x09cDfc56439643d151585B77899d0dC0f982BcD2",
+      "symbol": "ETH.m",
+      "decimals": 18,
+      "chainId": 1287,
+      "logoURI": "https://token-icons.vercel.app/icon/others/wanETH.png"
+    },
+    {
+      "name": "LTC@MoonbaseAlpha",
+      "address": "0x4f1aB74c2a9E8f591e8A80768e115C9f75935bAD",
+      "symbol": "LTC.m",
+      "decimals": 8,
+      "chainId": 1287,
+      "logoURI": "https://token-icons.vercel.app/icon/others/wanLTC.png"
+    },
+    {
+      "name": "XRP@MoonbaseAlpha",
+      "address": "0x70114d2a0Ec788BaFee869aCf7FD1F8c76491799",
+      "symbol": "XRP.m",
+      "decimals": 6,
+      "chainId": 1287,
+      "logoURI": "https://token-icons.vercel.app/icon/others/wanXRP.png"
+    },
+    {
+      "name": "WAN@MoonbaseAlpha",
+      "address": "0x50133f6836CB91237E17177E2985cBDAD51f0cf2",
+      "symbol": "WAN",
+      "decimals": 18,
+      "chainId": 1287,
+      "logoURI": "https://token-icons.vercel.app/icon/others/WWAN.png"
+    },
+    {
+      "name": "USDT@MoonbaseAlpha",
+      "address": "0x2715aA7156634256aE75240C2c5543814660CD04",
+      "symbol": "USDT.m",
+      "decimals": 6,
+      "chainId": 1287,
+      "logoURI": "https://token-icons.vercel.app/icon/others/wanUSDT.png"
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 11,
+    "patch": 0
+  }
+}
+

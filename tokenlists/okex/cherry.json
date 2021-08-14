@@ -1,0 +1,1055 @@
+{
+
+  "name": "cherryswap",
+
+  "timestamp": "2020-08-25T15:41:29.665Z",
+
+  "version": {
+
+    "major": 1,
+
+    "minor": 3,
+
+    "patch": 1
+
+  },
+
+  "tags": {},
+
+  "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0x2219845942d28716c0f7c605765fabdca1a7d9e0.png",
+
+  "keywords": ["cherry", "default"],
+
+  "tokens": [
+
+    {
+
+      "name": "CHE",
+
+      "symbol": "CHE",
+
+      "address": "0x8179D97Eb6488860d816e3EcAFE694a4153F216c",
+
+      "chainId": 66,
+
+      "decimals": 18,
+
+      "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0x8179d97eb6488860d816e3ecafe694a4153f216c.png"
+
+    },
+
+    {
+
+      "name": "BTCK",
+
+      "symbol": "BTCK",
+
+      "address": "0x54e4622dc504176b3bb432dccaf504569699a7ff",
+
+      "chainId": 66,
+
+      "decimals": 18,
+
+      "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0x54e4622dc504176b3bb432dccaf504569699a7ff.png"
+
+    },
+
+    {
+
+      "name": "ETHK",
+
+      "symbol": "ETHK",
+
+      "address": "0xef71ca2ee68f45b9ad6f72fbdb33d707b872315c",
+
+      "chainId": 66,
+
+      "decimals": 18,
+
+      "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0xef71ca2ee68f45b9ad6f72fbdb33d707b872315c.png"
+
+    },
+
+
+
+    {
+
+      "name": "USDT",
+
+      "symbol": "USDT",
+
+      "address": "0x382bb369d343125bfb2117af9c149795c6c65c50",
+
+      "chainId": 66,
+
+      "decimals": 18,
+
+      "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0x382bb369d343125bfb2117af9c149795c6c65c50.png"
+
+    },{
+
+      "name": "WOKT",
+
+      "symbol": "WOKT",
+
+      "address": "0x8f8526dbfd6e38e3d8307702ca8469bae6c56c15",
+
+      "chainId": 66,
+
+      "decimals": 18,
+
+      "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0x8f8526dbfd6e38e3d8307702ca8469bae6c56c15.png"
+
+    },{
+
+      "name": "OKB",
+
+      "symbol": "OKB",
+
+      "address": "0xdf54b6c6195ea4d948d03bfd818d365cf175cfc2",
+
+      "chainId": 66,
+
+      "decimals": 18,
+
+      "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0xdf54b6c6195ea4d948d03bfd818d365cf175cfc2.png"
+
+    },
+
+    {
+
+      "name": "USDK",
+
+      "symbol": "USDK",
+
+      "address": "0xdcac52e001f5bd413aa6ea83956438f29098166b",
+
+      "chainId": 66,
+
+      "decimals": 18,
+
+      "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0xdcac52e001f5bd413aa6ea83956438f29098166b.png"
+
+    },
+
+    {
+
+      "name": "USDC",
+
+      "symbol": "USDC",
+
+      "address": "0xc946daf81b08146b1c7a8da2a851ddf2b3eaaf85",
+
+      "chainId": 66,
+
+      "decimals": 18,
+
+      "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0xc946daf81b08146b1c7a8da2a851ddf2b3eaaf85.png"
+
+    },
+
+    {
+
+      "name": "DOTK",
+
+      "symbol": "DOTK",
+
+      "address": "0xabc732f6f69a519f6d508434481376b6221eb7d5",
+
+      "chainId": 66,
+
+      "decimals": 18,
+
+      "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0xabc732f6f69a519f6d508434481376b6221eb7d5.png"
+
+    },
+
+    {
+
+      "name": "FILK",
+
+      "symbol": "FILK",
+
+      "address": "0x3f8969be2fc0770dcc174968e4b4ff146e0acdaf",
+
+      "chainId": 66,
+
+      "decimals": 18,
+
+      "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0x3f8969be2fc0770dcc174968e4b4ff146e0acdaf.png"
+
+    },
+
+    {
+
+      "name": "LTCK",
+
+      "symbol": "LTCK",
+
+      "address": "0xfa520efc34c81bfc1e3dd48b7fe9ff326049f986",
+
+      "chainId": 66,
+
+      "decimals": 18,
+
+      "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0xfa520efc34c81bfc1e3dd48b7fe9ff326049f986.png"
+
+    },
+
+    {
+
+      "name": "LINKK",
+
+      "symbol": "LINKK",
+
+      "address": "0xbeb67de6cc5af652b2d9b0235750ed70f5a2cb0d",
+
+      "chainId": 66,
+
+      "decimals": 18,
+
+      "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0xbeb67de6cc5af652b2d9b0235750ed70f5a2cb0d.png"
+
+    },
+
+    {
+
+      "name": "UNIK",
+
+      "symbol": "UNIK",
+
+      "address": "0x59d226bb0a4d74274d4354ebb6a0e1a1aa5175b6",
+
+      "chainId": 66,
+
+      "decimals": 18,
+
+      "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0x59d226bb0a4d74274d4354ebb6a0e1a1aa5175b6.png"
+
+    },
+
+    {
+
+      "name": "SUSHIK",
+
+      "symbol": "SUSHIK",
+
+      "address": "0x2218e0d5e0173769f5b4939a3ae423f7e5e4eab7",
+
+      "chainId": 66,
+
+      "decimals": 18,
+
+      "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0x2218e0d5e0173769f5b4939a3ae423f7e5e4eab7.png"
+
+    },
+
+    {
+
+      "name": "ZKSK",
+
+      "symbol": "ZKSK",
+
+      "address": "0xcd08d321f6bc10a10f094e4b2e6c9b8bf9906401",
+
+      "chainId": 66,
+
+      "decimals": 18,
+
+      "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0xcd08d321f6bc10a10f094e4b2e6c9b8bf9906401.png"
+
+    },
+
+    {
+
+      "name": "AUCTIONK",
+
+      "symbol": "AUCTIONK",
+
+      "address": "0x77df6ebec3316792d4ea5bc0f8286c27905aa8e8",
+
+      "chainId": 66,
+
+      "decimals": 18,
+
+      "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0x77df6ebec3316792d4ea5bc0f8286c27905aa8e8.png"
+
+    },
+
+    {
+
+      "name": "SFGK",
+
+      "symbol": "SFGK",
+
+      "address": "0x3212606f74cc59656e1ec6f587fca61ba3b85eb0",
+
+      "chainId": 66,
+
+      "decimals": 18,
+
+      "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0x3212606f74cc59656e1ec6f587fca61ba3b85eb0.png"
+
+    },
+
+    {
+
+      "name": "DAIK",
+
+      "symbol": "DAIK",
+
+      "address": "0x21cde7e32a6caf4742d00d44b07279e7596d26b9",
+
+      "chainId": 66,
+
+      "decimals": 18,
+
+      "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0x21cde7e32a6caf4742d00d44b07279e7596d26b9.png"
+
+    },
+
+    {
+
+      "name": "KINEK",
+
+      "symbol": "KINEK",
+
+      "address": "0xc05760d75e7f5ad428a906674ce7c7c82d003d01",
+
+      "chainId": 66,
+
+      "decimals": 18,
+
+      "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0xc05760d75e7f5ad428a906674ce7c7c82d003d01.png"
+
+    },
+
+    {
+
+      "name": "XRPK",
+
+      "symbol": "XRPK",
+
+      "address": "0xa715f624eb32c6c960b0e044b10cde585d5f5984",
+
+      "chainId": 66,
+
+      "decimals": 18,
+
+      "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0xa715f624eb32c6c960b0e044b10cde585d5f5984.png"
+
+    },
+
+    
+
+    {
+
+      "name": "TRXK",
+
+      "symbol": "TRXK",
+
+      "address": "0x00505505a7576d6734704fabb16f41924e3e384b",
+
+      "chainId": 66,
+
+      "decimals": 18,
+
+      "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0x00505505a7576d6734704fabb16f41924e3e384b.png"
+
+    },
+
+    {
+
+      "name": "BCHK",
+
+      "symbol": "BCHK",
+
+      "address": "0x18d103b7066aeedb6005b78a462ef9027329b1ea",
+
+      "chainId": 66,
+
+      "decimals": 18,
+
+      "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0x18d103b7066aeedb6005b78a462ef9027329b1ea.png"
+
+    },
+
+    {
+
+      "name": "ETCK",
+
+      "symbol": "ETCK",
+
+      "address": "0x99970778e2715bbc9cf8fb83d10dcbc2d2d551a3",
+
+      "chainId": 66,
+
+      "decimals": 18,
+
+      "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0x99970778e2715bbc9cf8fb83d10dcbc2d2d551a3.png"
+
+    },
+
+    {
+
+      "name": "SHIBK",
+
+      "symbol": "SHIBK",
+
+      "address": "0xaa27badaa3c9ec9081b8f6c9cdd2bf375f143780",
+
+      "chainId": 66,
+
+      "decimals": 18,
+
+      "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0xaa27badaa3c9ec9081b8f6c9cdd2bf375f143780.png"
+
+    },
+
+    {
+
+      "name": "WBTCK",
+
+      "symbol": "WBTCK",
+
+      "address": "0x506f731f7656e2fb34b587b912808f2a7ab640bd",
+
+      "chainId": 66,
+
+      "decimals": 18,
+
+      "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0x506f731f7656e2fb34b587b912808f2a7ab640bd.png"
+
+    },
+
+    {
+
+      "name": "BLADE",
+
+      "symbol": "BLADE",
+
+      "address": "0xa07403c1bd0c5cf53df07f15faa589241352527b",
+
+      "chainId": 66,
+
+      "decimals": 18,
+
+      "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0xa07403c1bd0c5cf53df07f15faa589241352527b.png"
+
+    },
+
+    {
+
+      "name": "KOA",
+
+      "symbol": "KOA",
+
+      "address": "0x2168795125d44653e0b858b5f6dcc86d719b6a36",
+
+      "chainId": 66,
+
+      "decimals": 18,
+
+      "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0x2168795125d44653e0b858b5f6dcc86d719b6a36.png"
+
+    },
+
+    {
+
+      "name": "pUSDT",
+
+      "symbol": "pUSDT",
+
+      "address": "0xadf040519fe24ba9df6670599b2de7fd6049772f",
+
+      "chainId": 66,
+
+      "decimals": 8,
+
+      "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0xadf040519fe24ba9df6670599b2de7fd6049772f.png"
+
+    },
+
+    {
+
+      "name": "BNB",
+
+      "symbol": "BNB",
+
+      "address": "0x218c3c3d49d0e7b37aff0d8bb079de36ae61a4c0",
+
+      "chainId": 66,
+
+      "decimals": 18,
+
+      "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0x218c3c3d49d0e7b37aff0d8bb079de36ae61a4c0.png"
+
+    },
+
+    {
+
+      "name": "BUSD",
+
+      "symbol": "BUSD",
+
+      "address": "0x332730a4f6e03d9c55829435f10360e13cfa41ff",
+
+      "chainId": 66,
+
+      "decimals": 18,
+
+      "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0x332730a4f6e03d9c55829435f10360e13cfa41ff.png"
+
+    },
+
+    {
+
+      "name": "ACMD",
+
+      "symbol": "ACMD",
+
+      "address": "0xc95efaf132507d81805f8cfb90e4863939310105",
+
+      "chainId": 66,
+
+      "decimals": 18,
+
+      "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0xc95efaf132507d81805f8cfb90e4863939310105.png"
+
+    },
+
+    {
+
+      "name": "ACMDOLD",
+
+      "symbol": "ACMDOLD",
+
+      "address": "0x2f8eb6f75df534c4992ec79d9825c5ea4b1b2a57",
+
+      "chainId": 66,
+
+      "decimals": 18,
+
+      "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0x2f8eb6f75df534c4992ec79d9825c5ea4b1b2a57.png"
+
+    },
+
+    {
+
+      "name": "OFI",
+
+      "symbol": "OFI",
+
+      "address": "0x2e2f982c3e66db8604b0a99862dd97d31ed740b3",
+
+      "chainId": 66,
+
+      "decimals": 18,
+
+      "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0x2e2f982c3e66db8604b0a99862dd97d31ed740b3.png"
+
+    },
+
+    {
+
+      "name": "NULS",
+
+      "symbol": "NULS",
+
+      "address": "0x8cd6e29d3686d24d3c2018cee54621ea0f89313b",
+
+      "chainId": 66,
+
+      "decimals": 8,
+
+      "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0x8cd6e29d3686d24d3c2018cee54621ea0f89313b.png"
+
+    },
+
+    {
+
+      "name": "COOK",
+
+      "symbol": "COOK",
+
+      "address": "0x7f1ae1c42f5f967c0e1aba3ed7b6d62f88be4275",
+
+      "chainId": 66,
+
+      "decimals": 18,
+
+      "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0x7f1ae1c42f5f967c0e1aba3ed7b6d62f88be4275.png"
+
+    },
+
+    {
+
+      "name": "STK",
+
+      "symbol": "STK",
+
+      "address": "0x3e259bfe720093abb26a2c3fe57670259b2ebea2",
+
+      "chainId": 66,
+
+      "decimals": 12,
+
+      "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0x3e259bfe720093abb26a2c3fe57670259b2ebea2.png"
+
+    },
+
+    {
+
+      "name": "SPE",
+
+      "symbol": "SPE",
+
+      "address": "0xf338704c74212d152cb41cec1db11e2e783bcf94",
+
+      "chainId": 66,
+
+      "decimals": 18,
+
+      "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0xf338704c74212d152cb41cec1db11e2e783bcf94.png"
+
+    },
+
+    {
+
+      "name": "DFOX",
+
+      "symbol": "DFOX",
+
+      "address": "0x3aa2cece4fd9b45a12c032871178a9d1c9694f07",
+
+      "chainId": 66,
+
+      "decimals": 18,
+
+      "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0x3aa2cece4fd9b45a12c032871178a9d1c9694f07.png"
+
+    },
+
+    {
+
+      "name": "GRAPE",
+
+      "symbol": "GRAPE",
+
+      "address": "0x81118943c298de2973f2abe4807cd915c26ca483",
+
+      "chainId": 66,
+
+      "decimals": 18,
+
+      "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0x81118943c298de2973f2abe4807cd915c26ca483.png"
+
+    },
+
+    {
+
+      "name": "TPT",
+
+      "symbol": "TPT",
+
+      "address": "0x2cec1c3f71db54c99d6df687d8ac968cce80cc85",
+
+      "chainId": 66,
+
+      "decimals": 4,
+
+      "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0x2cec1c3f71db54c99d6df687d8ac968cce80cc85.png"
+
+    },
+
+    {
+
+      "name": "DMX",
+
+      "symbol": "DMX",
+
+      "address": "0xaa06bc645e77be80d8eca3e6a139cffa8122fde2",
+
+      "chainId": 66,
+
+      "decimals": 18,
+
+      "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0xaa06bc645e77be80d8eca3e6a139cffa8122fde2.png"
+
+    },
+
+    {
+
+      "name": "ZENI",
+
+      "symbol": "ZENI",
+
+      "address": "0x49fc51a84c11093313d319cafe105b134303d52c",
+
+      "chainId": 66,
+
+      "decimals": 18,
+
+      "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0x49fc51a84c11093313d319cafe105b134303d52c.png"
+
+    },
+
+    {
+
+      "name": "GLORY",
+
+      "symbol": "GLORY",
+
+      "address": "0xc3bdfee6186849d5509601045af4af567a001c94",
+
+      "chainId": 66,
+
+      "decimals": 18,
+
+      "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0xc3bdfee6186849d5509601045af4af567a001c94.png"
+
+    },
+
+    {
+
+      "name": "LOWB",
+
+      "symbol": "LOWB",
+
+      "address": "0x08963db742ab159f27518d1d12188f69aa7387fb",
+
+      "chainId": 66,
+
+      "decimals": 18,
+
+      "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0x08963db742ab159f27518d1d12188f69aa7387fb.png"
+
+    },
+
+    {
+
+      "name": "NABOX",
+
+      "symbol": "NABOX",
+
+      "address": "0x68df883715a12f085ffe54e90733a12c7c9c8128",
+
+      "chainId": 66,
+
+      "decimals": 18,
+
+      "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0x68df883715a12f085ffe54e90733a12c7c9c8128.png"
+
+    },
+
+    {
+
+      "name": "NVT",
+
+      "symbol": "NVT",
+
+      "address": "0xd1351ec15e8511658c2ba1e1e81e1e60aa39c9cd",
+
+      "chainId": 66,
+
+      "decimals": 8,
+
+      "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0xd1351ec15e8511658c2ba1e1e81e1e60aa39c9cd.png"
+
+    },
+
+    {
+
+      "name": "OKFly",
+
+      "symbol": "OKFly",
+
+      "address": "0x02f093513b7872cdfc518e51ed67f88f0e469592",
+
+      "chainId": 66,
+
+      "decimals": 9,
+
+      "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0x02f093513b7872cdfc518e51ed67f88f0e469592.png"
+
+    },
+
+    {
+
+      "name": "SB",
+
+      "symbol": "SB",
+
+      "address": "0x5c0b96bf2527cd0f67a4a492ca03ee069d395dd4",
+
+      "chainId": 66,
+
+      "decimals": 18,
+
+      "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0x5c0b96bf2527cd0f67a4a492ca03ee069d395dd4.png"
+
+    },
+
+    {
+
+      "name": "PGO",
+
+      "symbol": "PGO",
+
+      "address": "0x60fa9b096e1142bf360628de03d6b3603c1d10f7",
+
+      "chainId": 66,
+
+      "decimals": 18,
+
+      "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0x60fa9b096e1142bf360628de03d6b3603c1d10f7.png"
+
+    },
+
+    {
+
+      "name": "OKMoon",
+
+      "symbol": "OKMoon",
+
+      "address": "0xbb25d219cbf8963ec9b8d4e01361fb529e49263e",
+
+      "chainId": 66,
+
+      "decimals": 9,
+
+      "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0xbb25d219cbf8963ec9b8d4e01361fb529e49263e.png"
+
+    },
+
+    {
+
+      "name": "HDT",
+
+      "symbol": "HDT",
+
+      "address": "0x3813fde233f3233793ab24a6e913258ff516c762",
+
+      "chainId": 66,
+
+      "decimals": 18,
+
+      "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0x3813fde233f3233793ab24a6e913258ff516c762.png"
+
+    },
+
+    {
+
+      "name": "FIN",
+
+      "symbol": "FIN",
+
+      "address": "0x8d3573f24c0aa3819a2f5b02b2985dd82b487715",
+
+      "chainId": 66,
+
+      "decimals": 18,
+
+      "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0x8d3573f24c0aa3819a2f5b02b2985dd82b487715.png"
+
+    },
+
+    {
+
+      "name": "BabyDoge",
+
+      "symbol": "BabyDoge",
+
+      "address": "0x97513e975a7fa9072c72c92d8000b0db90b163c5",
+
+      "chainId": 66,
+
+      "decimals": 9,
+
+      "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0x97513e975a7fa9072c72c92d8000b0db90b163c5.png"
+
+    },
+
+    {
+
+      "name": "RNFT",
+
+      "symbol": "RNFT",
+
+      "address": "0x602984507a544944e1679459b2d521390ce5c913",
+
+      "chainId": 66,
+
+      "decimals": 18,
+
+      "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0x602984507a544944e1679459b2d521390ce5c913.png"
+
+    },
+
+    {
+
+      "name": "GAJ",
+
+      "symbol": "GAJ",
+
+      "address": "0x752e04640d4298dc1adb9e03670826676c144fe4",
+
+      "chainId": 66,
+
+      "decimals": 18,
+
+      "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0x752e04640d4298dc1adb9e03670826676c144fe4.png"
+
+    },
+
+    {
+
+      "name": "CGS",
+
+      "symbol": "CGS",
+
+      "address": "0x81fde2721f556e402296b2a57e1871637c27d5e8",
+
+      "chainId": 66,
+
+      "decimals": 18,
+
+      "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0x81fde2721f556e402296b2a57e1871637c27d5e8.png"
+
+    },
+
+    {
+
+      "name": "CGD",
+
+      "symbol": "CGD",
+
+      "address": "0x0048961f4f582814f91eadd740945da6d9baac18",
+
+      "chainId": 66,
+
+      "decimals": 18,
+
+      "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0x0048961f4f582814f91eadd740945da6d9baac18.png"
+
+    },
+
+    {
+
+      "name": "VGOD",
+
+      "symbol": "VGOD",
+
+      "address": "0xfaf18431a3dd0319680c49da62dbcd2339320679",
+
+      "chainId": 66,
+
+      "decimals": 9,
+
+      "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0xfaf18431a3dd0319680c49da62dbcd2339320679.png"
+
+    },
+
+    {
+
+      "name": "BZ",
+
+      "symbol": "BZ",
+
+      "address": "0x13278d4f200b14a3bb2d744d282b48b16c832d7e",
+
+      "chainId": 66,
+
+      "decimals": 18,
+
+      "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0x13278d4f200b14a3bb2d744d282b48b16c832d7e.png"
+
+    },
+
+    {
+
+      "name": "HEP",
+
+      "symbol": "HEP",
+
+      "address": "0xfd83168291312a0800f44610974350c569d12e42",
+
+      "chainId": 66,
+
+      "decimals": 0,
+
+      "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0xfd83168291312a0800f44610974350c569d12e42.png"
+
+    },
+
+    {
+
+      "name": "CELT",
+
+      "symbol": "CELT",
+
+      "address": "0x5ab622494ab7c5e81911558c9552dbd517f403fb",
+
+      "chainId": 66,
+
+      "decimals": 18,
+
+      "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0x5ab622494ab7c5e81911558c9552dbd517f403fb.png"
+
+    },
+
+    {
+
+      "name": "Crystal",
+
+      "symbol": "Crystal",
+
+      "address": "0xbd87c06d865a3717a16041acd8d33922e60e85ce",
+
+      "chainId": 66,
+
+      "decimals": 18,
+
+      "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0xbd87c06d865a3717a16041acd8d33922e60e85ce.png"
+
+    },
+
+    {
+
+      "name": "EGG",
+
+      "symbol": "EGG",
+
+      "address": "0x1ab0f0e761f642fe0180c973448a1a7482f81690",
+
+      "chainId": 66,
+
+      "decimals": 18,
+
+      "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0x1ab0f0e761f642fe0180c973448a1a7482f81690.png"
+
+    },
+
+    {
+
+      "name": "ORG",
+
+      "symbol": "ORG",
+
+      "address": "0x79b627bc95fa5b36eca53eb39c3cdf43aafdd10f",
+
+      "chainId": 66,
+
+      "decimals": 18,
+
+      "logoURI": "https://www.cherryswap.net/swapimages/images/coins/0x79b627bc95fa5b36eca53eb39c3cdf43aafdd10f.png"
+
+    }
+
+    
+
+  ]
+
+}
+
+
