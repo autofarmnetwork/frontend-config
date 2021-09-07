@@ -1,0 +1,19 @@
+{
+  "name": "autofarm-frontend-config",
+  "version": "1.0.0",
+  "description": "Collection of JSONs for Remote Config",
+  "main": "index.js",
+  "scripts": {
+    "compile-tokenlist": "node scripts/compile_tokenlists.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/autofarmnetwork/frontend-config.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/autofarmnetwork/frontend-config/issues"
+  },
+  "homepage": "https://github.com/autofarmnetwork/frontend-config#readme"
+}

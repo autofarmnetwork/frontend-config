@@ -1,6 +1,6 @@
 const fs = require('fs');
 const path = require('path')
-const tokenlistsRoot = '../tokenlists/';
+const tokenlistsRoot = './tokenlists/';
 
 const aggregatedTokenList = fs.readdirSync(tokenlistsRoot, { withFileTypes: true })
   .filter(dirent => dirent.isDirectory())
