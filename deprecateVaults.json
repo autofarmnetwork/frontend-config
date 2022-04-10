@@ -1,5 +1,5 @@
 {
-  "bsc": [608],
+  "bsc": [],
   "polygon": [189],
   "heco": [],
   "avax": [],
@@ -10,7 +10,7 @@
   "harmony": [],
   "xdai": [],
   "arbitrum": [],
-  "cronos": [],
+  "cronos": [94,95,96,97,98],
   "boba": [],
   "velas": [],
   "aurora": [],
