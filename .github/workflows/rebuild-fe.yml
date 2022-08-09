@@ -1,19 +1,22 @@
-name: Rebuild
+name: Rebuild FE
 on:
-  push:
-    paths:
-      - 'deprecateVaults.json'
+	push:
+		paths:
+		- 'deprecateVaults.json'
 
 jobs:
-  build:
-    name: Dispatch to autofarm-fe
-    runs-on: ubuntu-latest
-    steps:
-      - name: Emit repository_dispatch
-        uses: mvasigh/dispatch-action@main
-        with:
-          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
-          repo: autofarm-fe
-          owner: autofarmnetwork
-          event_type: deprecate-vaults
+	build:
+		name: Dispatch to autofarm-fe
+		runs-on: ubuntu-latest
+		steps:
+			- name: Sleep to wait for cache update max wait
+				run: sleep 300s
+				shell: bash
+			- name: Emit repository_dispatch
+				uses: mvasigh/dispatch-action@main
+				with:
+					token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+					repo: autofarm-fe
+					owner: autofarmnetwork
+					event_type: deprecate-vaults
 
