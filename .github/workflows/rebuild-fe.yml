@@ -1,7 +1,8 @@
 name: Rebuild
-on: push
-	paths:
-		- "deprecateVaults.json"
+on:
+	push:
+		paths:
+			- "deprecateVaults.json"
 
 jobs:
   build:
