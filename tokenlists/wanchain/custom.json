@@ -1,0 +1,60 @@
+{
+  "tokens": [
+    {
+      "name": "Wrapped Wan",
+      "address": "0xdabD997aE5E4799BE47d6E69D9431615CBa28f48",
+      "symbol": "WWAN",
+      "decimals": 18,
+      "chainId": 888,
+      "logoURI": "https://tokens.autofarm.network/888-0xdabd997ae5e4799be47d6e69d9431615cba28f48.webp"
+    },
+    {
+      "name": "WaspToken",
+      "address": "0x8B9F9f4aA70B1B0d586BE8aDFb19c1Ac38e05E9a",
+      "symbol": "WASP",
+      "decimals": 18,
+      "chainId": 888,
+      "logoURI": "https://tokens.autofarm.network/888-0x8b9f9f4aa70b1b0d586be8adfb19c1ac38e05e9a.webp"
+    },
+    {
+      "name": "wanUSDT@wanchain",
+      "address": "0x11e77E27Af5539872efEd10abaA0b408cfd9fBBD",
+      "symbol": "wanUSDT",
+      "decimals": 6,
+      "chainId": 888,
+      "logoURI": "https://tokens.autofarm.network/888-0x11e77e27af5539872efed10abaa0b408cfd9fbbd.webp"
+    },
+    {
+      "name": "wanBTC@wanchain",
+      "address": "0x50c439B6d602297252505a6799d84eA5928bCFb6",
+      "symbol": "wanBTC",
+      "decimals": 8,
+      "chainId": 888,
+      "logoURI": "https://tokens.autofarm.network/888-0x50c439b6d602297252505a6799d84ea5928bcfb6.webp"
+    },
+    {
+      "name": "wanUSDC@wanchain",
+      "address": "0x52A9CEA01c4CBDd669883e41758B8eB8e8E2B34b",
+      "symbol": "wanUSDC",
+      "decimals": 6,
+      "chainId": 888,
+      "logoURI": "https://tokens.autofarm.network/888-0x52a9cea01c4cbdd669883e41758b8eb8e8e2b34b.webp"
+    },
+    {
+      "name": "wanETH@wanchain",
+      "address": "0xE3aE74D1518A76715aB4C7BeDF1af73893cd435A",
+      "symbol": "wanETH",
+      "decimals": 18,
+      "chainId": 888,
+      "logoURI": "https://tokens.autofarm.network/888-0xe3ae74d1518a76715ab4c7bedf1af73893cd435a.webp"
+    },
+    {
+      "name": "ZooToken",
+      "address": "0x6e11655d6aB3781C6613db8CB1Bc3deE9a7e111F",
+      "symbol": "ZOO",
+      "decimals": 18,
+      "chainId": 888,
+      "logoURI": "https://tokens.autofarm.network/888-0x6e11655d6ab3781c6613db8cb1bc3dee9a7e111f.webp"
+    }
+  ]
+}

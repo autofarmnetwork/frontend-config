@@ -113,6 +113,214 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI": "https://tokens.autofarm.network/56-0xe68b79e51bf826534ff37aa9cee71a3842ee9c70.webp"
+    },
+    {
+      "name": "JetSwap Token",
+      "address": "0x0487b824c8261462F88940f97053E65bDb498446",
+      "symbol": "WINGS",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://tokens.autofarm.network/56-0x0487b824c8261462f88940f97053e65bdb498446.webp"
+    },
+    {
+      "name": "bomb.money",
+      "address": "0x522348779DCb2911539e76A1042aA922F9C47Ee3",
+      "symbol": "BOMB",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://tokens.autofarm.network/56-0x522348779dcb2911539e76a1042aa922f9c47ee3.webp"
+    },
+    {
+      "name": "BUSD Token-LP",
+      "address": "0x98a5737749490856b401DB5Dc27F522fC314A4e1",
+      "symbol": "S*BUSD",
+      "decimals": 6,
+      "chainId": 56,
+      "logoURI": "https://tokens.autofarm.network/56-0x98a5737749490856b401db5dc27f522fc314a4e1.webp"
+    },
+    {
+      "name": "Tether USD-LP",
+      "address": "0x9aA83081AA06AF7208Dcc7A4cB72C94d057D2cda",
+      "symbol": "S*USDT",
+      "decimals": 6,
+      "chainId": 56,
+      "logoURI": "https://tokens.autofarm.network/56-0x9aa83081aa06af7208dcc7a4cb72c94d057d2cda.webp"
+    },
+    {
+      "name": "Amethyst",
+      "address": "0xb9E05B4C168B56F73940980aE6EF366354357009",
+      "symbol": "AMES",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://tokens.autofarm.network/56-0xb9e05b4c168b56f73940980ae6ef366354357009.webp"
+    },
+    {
+      "name": "Crox Token",
+      "address": "0x2c094F5A7D1146BB93850f629501eB749f6Ed491",
+      "symbol": "CROX",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://tokens.autofarm.network/56-0x2c094f5a7d1146bb93850f629501eb749f6ed491.webp"
+    },
+    {
+      "name": "DDDX",
+      "address": "0x4B6ee8188d6Df169E1071a7c96929640D61f144f",
+      "symbol": "DDDX",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://tokens.autofarm.network/56-0x4b6ee8188d6df169e1071a7c96929640d61f144f.webp"
+    },
+    {
+      "name": "ASHARE",
+      "address": "0xFa4b16b0f63F5A6D0651592620D585D308F749A4",
+      "symbol": "ASHARE",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://tokens.autofarm.network/56-0xfa4b16b0f63f5a6d0651592620d585d308f749a4.webp"
+    },
+    {
+      "name": "ESHARE",
+      "address": "0xDB20F6A8665432CE895D724b417f77EcAC956550",
+      "symbol": "ESHARE",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://tokens.autofarm.network/56-0xdb20f6a8665432ce895d724b417f77ecac956550.webp"
+    },
+    {
+      "name": "emp.money",
+      "address": "0x3b248CEfA87F836a4e6f6d6c9b42991b88Dc1d58",
+      "symbol": "EMP",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://tokens.autofarm.network/56-0x3b248cefa87f836a4e6f6d6c9b42991b88dc1d58.webp"
+    },
+    {
+      "name": "Augmented Finance",
+      "address": "0x114597F4260CAf4cDe1eeB0B9D9865B0B7b9a46a",
+      "symbol": "AGF",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://tokens.autofarm.network/56-0x114597f4260caf4cde1eeb0b9d9865b0b7b9a46a.webp"
+    },
+    {
+      "name": "Fonvity Token",
+      "address": "0x12a055D95855b4Ec2cd70C1A5EaDb1ED43eaeF65",
+      "symbol": "FON",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://tokens.autofarm.network/56-0x12a055d95855b4ec2cd70c1a5eadb1ed43eaef65.webp"
+    },
+    {
+      "name": "OSK",
+      "address": "0x04fA9Eb295266d9d4650EDCB879da204887Dc3Da",
+      "symbol": "OSK",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://tokens.autofarm.network/56-0x04fa9eb295266d9d4650edcb879da204887dc3da.webp"
+    },
+    {
+      "name": "FistToken",
+      "address": "0xC9882dEF23bc42D53895b8361D0b1EDC7570Bc6A",
+      "symbol": "FIST",
+      "decimals": 6,
+      "chainId": 56,
+      "logoURI": "https://tokens.autofarm.network/56-0xc9882def23bc42d53895b8361d0b1edc7570bc6a.webp"
+    },
+    {
+      "name": "Fist Smart Tool",
+      "address": "0x669765d450e92d79fEBbB966a1eAD054cb62F33b",
+      "symbol": "FTTS",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://tokens.autofarm.network/56-0x669765d450e92d79febbb966a1ead054cb62f33b.webp"
+    },
+    {
+      "name": "BSHARE",
+      "address": "0x531780FAcE85306877D7e1F05d713D1B50a37F7A",
+      "symbol": "BSHARE",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://tokens.autofarm.network/56-0x531780face85306877d7e1f05d713d1b50a37f7a.webp"
+    },
+    {
+      "name": "busm.money",
+      "address": "0x6216B17f696B14701E17BCB24Ec14430261Be94A",
+      "symbol": "BUSM",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://tokens.autofarm.network/56-0x6216b17f696b14701e17bcb24ec14430261be94a.webp"
+    },
+    {
+      "name": "CZpegs BNB",
+      "address": "0xf43fffb83D7C73275c2feaAC15D5670f7D739B50",
+      "symbol": "CZbnb",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://tokens.autofarm.network/56-0xf43fffb83d7c73275c2feaac15d5670f7d739b50.webp"
+    },
+    {
+      "name": "CZpegs EMP",
+      "address": "0xa700Ec63f9D3D9A03981CF7F8Eb805c444EDBC21",
+      "symbol": "CZemp",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://tokens.autofarm.network/56-0xa700ec63f9d3d9a03981cf7f8eb805c444edbc21.webp"
+    },
+    {
+      "name": "CZpegs SHARE Token",
+      "address": "0x8169a36EC368882207515D6F509A2E7Fc74203d3",
+      "symbol": "CZshares",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://tokens.autofarm.network/56-0x8169a36ec368882207515d6f509a2e7fc74203d3.webp"
+    },
+    {
+      "name": "CZpegs BUSD",
+      "address": "0xa2A3Be47bEb973d48401010742D5E442177d037B",
+      "symbol": "CZbusd",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://tokens.autofarm.network/56-0xa2a3be47beb973d48401010742d5e442177d037b.webp"
+    },
+    {
+      "name": "bitBOMB SHARE Token",
+      "address": "0x116B19FBAFCc947E7Ffcc3A42ff7185589143a56",
+      "symbol": "bitSHARE",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://tokens.autofarm.network/56-0x116b19fbafcc947e7ffcc3a42ff7185589143a56.webp"
+    },
+    {
+      "name": "bitBOMB BTC Peg",
+      "address": "0x39739A969ff667C91a81252b3DDDFAe31aaE4Aeb",
+      "symbol": "bitBTC",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://tokens.autofarm.network/56-0x39739a969ff667c91a81252b3dddfae31aae4aeb.webp"
+    },
+    {
+      "name": "bitBOMB DOT Peg",
+      "address": "0x123c62f04c9D70bD6F04E6282434c728F04eBD50",
+      "symbol": "bitDOT",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://tokens.autofarm.network/56-0x123c62f04c9d70bd6f04e6282434c728f04ebd50.webp"
+    },
+    {
+      "name": "Project Galaxy",
+      "address": "0xe4Cc45Bb5DBDA06dB6183E8bf016569f40497Aa5",
+      "symbol": "GAL",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://tokens.autofarm.network/56-0xe4cc45bb5dbda06db6183e8bf016569f40497aa5.webp"
+    },
+    {
+      "name": "Metis Token",
+      "address": "0xe552Fb52a4F19e44ef5A967632DBc320B0820639",
+      "symbol": "Metis",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://tokens.autofarm.network/56-0xe552fb52a4f19e44ef5a967632dbc320b0820639.webp"
     }
   ]
 }

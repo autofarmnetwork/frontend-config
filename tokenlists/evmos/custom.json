@@ -1,0 +1,44 @@
+{
+  "tokens": [
+    {
+      "name": "Wrapped Evmos",
+      "address": "0xD4949664cD82660AaE99bEdc034a0deA8A0bd517",
+      "symbol": "WEVMOS",
+      "decimals": 18,
+      "chainId": 9001,
+      "logoURI": "https://tokens.autofarm.network/9001-0xd4949664cd82660aae99bedc034a0dea8a0bd517.webp"
+    },
+    {
+      "name": "Diffusion",
+      "address": "0x3f75ceabCDfed1aCa03257Dc6Bdc0408E2b4b026",
+      "symbol": "DIFF",
+      "decimals": 18,
+      "chainId": 9001,
+      "logoURI": "https://tokens.autofarm.network/9001-0x3f75ceabcdfed1aca03257dc6bdc0408e2b4b026.webp"
+    },
+    {
+      "name": "Wrapped Ether",
+      "address": "0x5842C5532b61aCF3227679a8b1BD0242a41752f2",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 9001,
+      "logoURI": "https://tokens.autofarm.network/9001-0x5842c5532b61acf3227679a8b1bd0242a41752f2.webp"
+    },
+    {
+      "name": "USD Coin",
+      "address": "0x51e44FfaD5C2B122C8b635671FCC8139dc636E82",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 9001,
+      "logoURI": "https://tokens.autofarm.network/9001-0x51e44ffad5c2b122c8b635671fcc8139dc636e82.webp"
+    },
+    {
+      "name": "OAV",
+      "address": "0xBbD37BF85f7474b5bDe689695674faB1888565Ad",
+      "symbol": "OAV",
+      "decimals": 18,
+      "chainId": 9001,
+      "logoURI": "https://tokens.autofarm.network/9001-0xbbd37bf85f7474b5bde689695674fab1888565ad.webp"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "tokens": [
+    {
+      "name": "Wrapped Ether",
+      "address": "0xC9BdeEd33CD01541e1eeD10f90519d2C06Fe3feB",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 1313161554,
+      "logoURI": "https://tokens.autofarm.network/1313161554-0xc9bdeed33cd01541e1eed10f90519d2c06fe3feb.webp"
+    },
+    {
+      "name": "POLAR",
+      "address": "0xf0f3b9Eee32b1F490A4b8720cf6F005d4aE9eA86",
+      "symbol": "POLAR",
+      "decimals": 18,
+      "chainId": 1313161554,
+      "logoURI": "https://tokens.autofarm.network/1313161554-0xf0f3b9eee32b1f490a4b8720cf6f005d4ae9ea86.webp"
+    },
+    {
+      "name": "SPOLAR",
+      "address": "0x9D6fc90b25976E40adaD5A3EdD08af9ed7a21729",
+      "symbol": "SPOLAR",
+      "decimals": 18,
+      "chainId": 1313161554,
+      "logoURI": "https://tokens.autofarm.network/1313161554-0x9d6fc90b25976e40adad5a3edd08af9ed7a21729.webp"
+    },
+    {
+      "name": "Staked NEAR",
+      "address": "0x07F9F7f963C5cD2BBFFd30CcfB964Be114332E30",
+      "symbol": "STNEAR",
+      "decimals": 24,
+      "chainId": 1313161554,
+      "logoURI": "https://tokens.autofarm.network/1313161554-0x07f9f7f963c5cd2bbffd30ccfb964be114332e30.webp"
+    },
+    {
+      "name": "ETHERNAL",
+      "address": "0x17cbd9C274e90C537790C51b4015a65cD015497e",
+      "symbol": "ETHERNAL",
+      "decimals": 18,
+      "chainId": 1313161554,
+      "logoURI": "https://tokens.autofarm.network/1313161554-0x17cbd9c274e90c537790c51b4015a65cd015497e.webp"
+    }
+  ]
+}

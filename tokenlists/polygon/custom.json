@@ -34,6 +34,102 @@
       "decimals": 18,
       "chainId": 137,
       "logoURI": "https://tokens.autofarm.network/137-0xdad97f7713ae9437fa9249920ec8507e5fbb23d3.webp"
+    },
+    {
+      "name": "JetSwap Polygon Token",
+      "address": "0x845E76A8691423fbc4ECb8Dd77556Cb61c09eE25",
+      "symbol": "pWINGS",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://tokens.autofarm.network/137-0x845e76a8691423fbc4ecb8dd77556cb61c09ee25.webp"
+    },
+    {
+      "name": "Liquid Staking Matic (PoS)",
+      "address": "0xfa68FB4628DFF1028CFEc22b4162FCcd0d45efb6",
+      "symbol": "MaticX",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://tokens.autofarm.network/137-0xfa68fb4628dff1028cfec22b4162fccd0d45efb6.webp"
+    },
+    {
+      "name": "Orbit Bridge Polygon Ethereum",
+      "address": "0xE4c2b5db9de5da0A17ED7ec7176602ad99E52624",
+      "symbol": "oETH",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://tokens.autofarm.network/137-0xe4c2b5db9de5da0a17ed7ec7176602ad99e52624.webp"
+    },
+    {
+      "name": "Orbit Bridge Polygon USD Coin",
+      "address": "0x5bEF2617eCCA9a39924c09017c5F1E25Efbb3bA8",
+      "symbol": "oUSDC",
+      "decimals": 6,
+      "chainId": 137,
+      "logoURI": "https://tokens.autofarm.network/137-0x5bef2617ecca9a39924c09017c5f1e25efbb3ba8.webp"
+    },
+    {
+      "name": "Orbit Bridge Polygon Matic Token",
+      "address": "0x3f364853F01D32d581fc9734110B21C77AeEA024",
+      "symbol": "oMATIC",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://tokens.autofarm.network/137-0x3f364853f01d32d581fc9734110b21c77aeea024.webp"
+    },
+    {
+      "name": "Orbit Bridge Polygon XRP Token",
+      "address": "0xCc2a9051E904916047c26C90f41c000D4f273456",
+      "symbol": "oXRP",
+      "decimals": 6,
+      "chainId": 137,
+      "logoURI": "https://tokens.autofarm.network/137-0xcc2a9051e904916047c26c90f41c000d4f273456.webp"
+    },
+    {
+      "name": "Orbit Bridge Polygon Dai",
+      "address": "0x8Ece0a50A025A7E13398212a5BEd2ded11959949",
+      "symbol": "oDAI",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://tokens.autofarm.network/137-0x8ece0a50a025a7e13398212a5bed2ded11959949.webp"
+    },
+    {
+      "name": "Orbit Bridge Polygon KlaySwap Protocol",
+      "address": "0x3D3B92Fe0B4c26b74F8fF13A32dD764F4DFD8b51",
+      "symbol": "oKSP",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://tokens.autofarm.network/137-0x3d3b92fe0b4c26b74f8ff13a32dd764f4dfd8b51.webp"
+    },
+    {
+      "name": "Orbit Bridge Polygon Tether USD",
+      "address": "0x957da9EbbCdC97DC4a8C274dD762EC2aB665E15F",
+      "symbol": "oUSDT",
+      "decimals": 6,
+      "chainId": 137,
+      "logoURI": "https://tokens.autofarm.network/137-0x957da9ebbcdc97dc4a8c274dd762ec2ab665e15f.webp"
+    },
+    {
+      "name": "Orbit Bridge Polygon Klay",
+      "address": "0x0A02D33031917d836Bd7Af02F9f7F6c74d67805F",
+      "symbol": "oKLAY",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://tokens.autofarm.network/137-0x0a02d33031917d836bd7af02f9f7f6c74d67805f.webp"
+    },
+    {
+      "name": "Meshswap Protocol",
+      "address": "0x82362Ec182Db3Cf7829014Bc61E9BE8a2E82868a",
+      "symbol": "MESH",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://tokens.autofarm.network/137-0x82362ec182db3cf7829014bc61e9be8a2e82868a.webp"
+    },
+    {
+      "name": "Orbit Bridge Polygon Orbit Chain",
+      "address": "0x12c9FFE6538f20A982FD4D17912f0ca00fA82D30",
+      "symbol": "oORC",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://tokens.autofarm.network/137-0x12c9ffe6538f20a982fd4d17912f0ca00fa82d30.webp"
     }
   ]
 }

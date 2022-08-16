@@ -7,6 +7,54 @@
       "decimals": 18,
       "chainId": 25,
       "logoURI": "https://tokens.autofarm.network/25-0x87efb3ec1576dec8ed47e58b832bedcd86ee186e.webp"
+    },
+    {
+      "name": "CROSS",
+      "address": "0x6ef20cA7E493c52095e892DAB78a7FD0e7e2a279",
+      "symbol": "CROSS",
+      "decimals": 18,
+      "chainId": 25,
+      "logoURI": "https://tokens.autofarm.network/25-0x6ef20ca7e493c52095e892dab78a7fd0e7e2a279.webp"
+    },
+    {
+      "name": "Cross USD Stablecoin",
+      "address": "0xe6052a9a4c0A2f14ADC9876A3A1a7b2882f5F139",
+      "symbol": "xUSD",
+      "decimals": 18,
+      "chainId": 25,
+      "logoURI": "https://tokens.autofarm.network/25-0xe6052a9a4c0a2f14adc9876a3a1a7b2882f5f139.webp"
+    },
+    {
+      "name": "gaur.money",
+      "address": "0x046cb616d7a52173e4Da9efF1BFd590550aa3228",
+      "symbol": "GAUR",
+      "decimals": 18,
+      "chainId": 25,
+      "logoURI": "https://tokens.autofarm.network/25-0x046cb616d7a52173e4da9eff1bfd590550aa3228.webp"
+    },
+    {
+      "name": "GSHARE",
+      "address": "0x66ec6E9F61ac288f5BA661CD9a2dBe3aBf9871C9",
+      "symbol": "GSHARE",
+      "decimals": 18,
+      "chainId": 25,
+      "logoURI": "https://tokens.autofarm.network/25-0x66ec6e9f61ac288f5ba661cd9a2dbe3abf9871c9.webp"
+    },
+    {
+      "name": "Argo Protocol",
+      "address": "0x47A9D630dc5b28F75d3AF3be3AAa982512Cd89Aa",
+      "symbol": "ARGO",
+      "decimals": 18,
+      "chainId": 25,
+      "logoURI": "https://tokens.autofarm.network/25-0x47a9d630dc5b28f75d3af3be3aaa982512cd89aa.webp"
+    },
+    {
+      "name": "FerroToken",
+      "address": "0x39bC1e38c842C60775Ce37566D03B41A7A66C782",
+      "symbol": "FER",
+      "decimals": 18,
+      "chainId": 25,
+      "logoURI": "https://tokens.autofarm.network/25-0x39bc1e38c842c60775ce37566d03b41a7a66c782.webp"
     }
   ]
 }

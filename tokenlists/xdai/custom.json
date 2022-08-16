@@ -1,0 +1,12 @@
+{
+  "tokens": [
+    {
+      "name": "Curve.fi wxDAI/USDC/USDT",
+      "address": "0x1337BedC9D22ecbe766dF105c9623922A27963EC",
+      "symbol": "x3CRV",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://tokens.autofarm.network/100-0x1337bedc9d22ecbe766df105c9623922a27963ec.webp"
+    }
+  ]
+}

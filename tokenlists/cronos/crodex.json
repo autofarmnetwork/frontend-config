@@ -70,52 +70,52 @@
       "logoURI": "https://cryptologos.cc/logos/multi-collateral-dai-dai-logo.png?v=014"
     },
     {
-      "name": "MIM",
+      "name": "MIM (Relay)",
       "address": "0x2BC472832Eb20C65F82d6A869db845aB0C0099ba",
-      "symbol": "MIM",
+      "symbol": "MIM (Relay)",
       "decimals": 18,
       "chainId": 25,
       "logoURI": "https://assets.coingecko.com/coins/images/16786/small/mimlogopng.png"
     },
     {
-      "name": "miMatic",
+      "name": "MAI (Relay)",
       "address": "0x1c965D8E53fb1a448789e2B0FA5abc3EB2c36993",
-      "symbol": "miMatic",
+      "symbol": "MAI (Relay)",
       "decimals": 18,
       "chainId": 25,
       "logoURI": "https://assets.coingecko.com/coins/images/15264/small/mimatic-red.png"
     },
     {
-      "name": "RELAY",
+      "name": "MAI",
+      "address": "0x2Ae35c8E3D4bD57e8898FF7cd2bBff87166EF8cb",
+      "symbol": "MAI",
+      "decimals": 18,
+      "chainId": 25,
+      "logoURI": "https://assets.coingecko.com/coins/images/15264/small/mimatic-red.png"
+    },
+    {
+      "name": "RELAY (Relay)",
       "address": "0x9C29650a1B273A031A35F3121914aae882B144A4",
-      "symbol": "RELAY",
+      "symbol": "RELAY (Relay)",
       "decimals": 18,
       "chainId": 25,
       "logoURI": "https://assets.coingecko.com/coins/images/17816/small/relay-logo-200.png"
     },
     {
-      "name": "rAVAX",
+      "name": "AVAX (Relay)",
       "address": "0xe7e12F436ae05cE6623eFB68B28ca4b83A953600",
-      "symbol": "rAVAX",
+      "symbol": "AVAX (Relay)",
       "decimals": 18,
       "chainId": 25,
       "logoURI": "https://assets.coingecko.com/coins/images/12559/small/coin-round-red.png"
     },
     {
-      "name": "MATIC",
+      "name": "MATIC (Relay)",
       "address": "0xad79AC3c5a5c15C6B9194F5568e451b3fc3C2B40",
-      "symbol": "MATIC",
+      "symbol": "MATIC (Relay)",
       "decimals": 18,
       "chainId": 25,
       "logoURI": "https://assets.coingecko.com/coins/images/4713/small/matic-token-icon.png"
-    },
-    {
-      "name": "FreeRiver",
-      "address": "0x9209d64F2930DaAe334e0fc2939709E593A88041",
-      "symbol": "FreeRiver",
-      "decimals": 18,
-      "chainId": 25,
-      "logoURI": "https://assets.coingecko.com/coins/images/18448/small/freeriver.PNG"
     },
     {
       "name": "CRODOGE",
@@ -126,36 +126,28 @@
       "logoURI": "https://swap.crodex.app/crodoge.png"
     },
     {
-      "name": "BUSD",
+      "name": "BNB (Any)",
+      "address": "0xfa9343c3897324496a05fc75abed6bac29f8a40f",
+      "symbol": "BNB (Any)",
+      "decimals": 18,
+      "chainId": 25,
+      "logoURI": "https://cryptologos.cc/logos/binance-coin-bnb-logo.png?v=014"
+    },
+    {
+      "name": "BUSD (Any)",
       "address": "0x6ab6d61428fde76768d7b45d8bfeec19c6ef91a8",
-      "symbol": "BUSD",
+      "symbol": "BUSD (Any)",
       "decimals": 18,
       "chainId": 25,
       "logoURI": "https://cryptologos.cc/logos/binance-usd-busd-logo.png?v=014"
     },
     {
-      "name": "Fantom",
+      "name": "Fantom (Any)",
       "address": "0xB44a9B6905aF7c801311e8F4E76932ee959c663C",
-      "symbol": "FTM",
+      "symbol": "FTM (Any)",
       "decimals": 18,
       "chainId": 25,
       "logoURI": "https://cryptologos.cc/logos/fantom-ftm-logo.png?v=014"
-    },
-    {
-      "name": "CROSHIBA",
-      "address": "0x5617EA36c5da5dAFaB51A8634B02609459fEE94F",
-      "symbol": "CROSHIBA",
-      "decimals": 4,
-      "chainId": 25,
-      "logoURI": "https://croshiba.io/assets/images/image03.png?v=7af1a987"
-    },
-    {
-      "name": "TENDIES",
-      "address": "0x2fDcB16a977921FaDac3A9E03D18aDa77B4aA3F5",
-      "symbol": "TENDIES",
-      "decimals": 9,
-      "chainId": 25,
-      "logoURI": "https://raw.githubusercontent.com/tendiefrenco/tendies/main/logo%2025x25.png"
     },
     {
       "name": "CroMoon",
@@ -163,7 +155,7 @@
       "symbol": "CroMoon",
       "decimals": 9,
       "chainId": 25,
-      "logoURI": "https://cromoon.net/wp-content/uploads/2021/11/cromoon-logo-icon.png"
+      "logoURI": "https://swap.crodex.app/cromoon.png"
     },
     {
       "name": "CroFarm",
@@ -182,21 +174,164 @@
       "logoURI": "https://swap.crodex.app/crola.png"
     },
     {
-      "name": "Crownos",
-      "address": "0x52ceA86846d437e0a41B4059EbA543a46296EB6C",
-      "symbol": "Crownos",
-      "decimals": 9,
-      "chainId": 25,
-      "logoURI": "https://crownosnft.mypinata.cloud/ipfs/QmWQgizzb2C5WKJygjnxo6C2xSZQ9kkt7pSNNSJNA4guzZ"
-    },
-    {
       "name": "PolyDoge",
       "address": "0x9b8077C6590b560f1A9D60512648277D29b35A3B",
       "symbol": "PolyDoge",
       "decimals": 18,
       "chainId": 25,
       "logoURI": "https://polydoge.com/doge-webpage_files/doge.png"
+    },
+    {
+      "name": "CRYSTL",
+      "address": "0xCbDE0E17d14F49e10a10302a32d17AE88a7Ecb8B",
+      "symbol": "CRYSTL",
+      "decimals": 18,
+      "chainId": 25,
+      "logoURI": "https://i.imgur.com/SCIiMhJ.png"
+    },
+    {
+      "name": "ELK",
+      "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
+      "symbol": "ELK",
+      "decimals": 18,
+      "chainId": 25,
+      "logoURI": "https://swap.crodex.app/elk.png"
+    },
+    {
+      "name": "AUTO",
+      "address": "0x0dCb0CB0120d355CdE1ce56040be57Add0185BAa",
+      "symbol": "AUTO",
+      "decimals": 18,
+      "chainId": 25,
+      "logoURI": "https://swap.crodex.app/auto.png"
+    },
+    {
+      "name": "CRONIC",
+      "address": "0x4A194B6A25a0d29B860D7D71e015EC15a1E26c99",
+      "symbol": "CRONIC",
+      "decimals": 9,
+      "chainId": 25,
+      "logoURI": "https://swap.crodex.app/cronic.png"
+    },
+    {
+      "name": "LOOT",
+      "address": "0xEd34211cDD2cf76C3cceE162761A72d7b6601E2B",
+      "symbol": "LOOT",
+      "decimals": 18,
+      "chainId": 25,
+      "logoURI": "https://lootnetwork.ca/wp-content/uploads/2021/12/LOGO_cropped-small-2.png"
+    },
+    {
+      "name": "KAFE",
+      "address": "0xD62A9d7BE4404675ab0e5CBD5DfCE4aa6A15566E",
+      "symbol": "KAFE",
+      "decimals": 18,
+      "chainId": 25,
+      "logoURI": "https://swap.crodex.app/kafe.png"
+    },
+    {
+      "name": "ATOM",
+      "address": "0xB888d8Dd1733d72681b30c00ee76BDE93ae7aa93",
+      "symbol": "ATOM",
+      "decimals": 6,
+      "chainId": 25,
+      "logoURI": "https://swap.crodex.app/atom.svg"
+    },
+    {
+      "name": "CroKing",
+      "address": "0x065DE42E28E42d90c2052a1B49e7f83806Af0e1F",
+      "symbol": "CroKing",
+      "decimals": 9,
+      "chainId": 25,
+      "logoURI": "https://swap.crodex.app/croking.png"
+    },
+    {
+      "name": "cHIBIKI",
+      "address": "0x6B66fCB66Dba37F99876a15303b759c73fc54ed0",
+      "symbol": "cHIBIKI",
+      "decimals": 18,
+      "chainId": 25,
+      "logoURI": "https://hibiki.finance/assets/images/logo200.png"
+    },
+    {
+      "name": "LUNA",
+      "address": "0x9278C8693e7328bef49804BacbFb63253565dffD",
+      "symbol": "LUNA",
+      "decimals": 6,
+      "chainId": 25,
+      "logoURI": "https://cryptologos.cc/logos/terra-luna-luna-logo.png?v=018"
+    },
+    {
+      "name": "METAPX",
+      "address": "0x03627840190152771e86e5E702175B00219F6471",
+      "symbol": "METAPX",
+      "decimals": 18,
+      "chainId": 25,
+      "logoURI": "https://www.metaversepixels.app/logo192.png"
+    },
+    {
+      "name": "croGAS",
+      "address": "0x2c7B96bDDa46104521d40AD3dCf80F9015051c31",
+      "symbol": "croGAS",
+      "decimals": 18,
+      "chainId": 25,
+      "logoURI": "https://d1fdloi71mui9q.cloudfront.net/FsRpZM9BToScO4hp751K_JSzdyz1k9ZFA4FT7"
+    },
+    {
+      "name": "ADA",
+      "address": "0x0e517979C2c1c1522ddB0c73905e0D39b3F990c0",
+      "symbol": "ADA",
+      "decimals": 6,
+      "chainId": 25,
+      "logoURI": "https://vvs.finance/images/tokens/0x0e517979C2c1c1522ddB0c73905e0D39b3F990c0.svg"
+    },
+    {
+      "name": "BOBA",
+      "address": "0xb78f4e392bB5b7A8E2E548A5C0dce3d64e19aeFE",
+      "symbol": "BOBA",
+      "decimals": 18,
+      "chainId": 25,
+      "logoURI": "https://swap.crodex.app/boba.png"
+    },
+    {
+      "name": "ARCANE",
+      "address": "0xf8bD0302E8E0b652DcD67D92CF42fbC5aFBdc127",
+      "symbol": "ARCANE",
+      "decimals": 18,
+      "chainId": 25,
+      "logoURI": "https://swap.crodex.app/arcane.png"
+    },
+    {
+      "name": "CroBank",
+      "address": "0x55210C2a69b4c52a9d9289A257D54d35C4a2d2eC",
+      "symbol": "BANK",
+      "decimals": 9,
+      "chainId": 25,
+      "logoURI": "https://d1fdloi71mui9q.cloudfront.net/ANxrqa0RS665shlHPKEA_Qoco6G92hiUE6cQ0"
+    },
+    {
+      "name": "IcyCRO",
+      "address": "0x8F857Af6Ea31447Bb502fE0E3F4e4340CDFCfc6C",
+      "symbol": "ICY",
+      "decimals": 18,
+      "chainId": 25,
+      "logoURI": "https://swap.crodex.app/ICY.png"
+    },
+    {
+      "name": "Cougar",
+      "address": "0x4e57e27e4166275Eb7f4966b42A201d76e481B03",
+      "symbol": "CGS",
+      "decimals": 18,
+      "chainId": 25,
+      "logoURI": "https://cronoscan.com/token/images/cougarswap_32.png"
+    },
+    {
+      "name": "DarkCrypto",
+      "address": "0x83b2AC8642aE46FC2823Bc959fFEB3c1742c48B5",
+      "symbol": "DARK",
+      "decimals": 18,
+      "chainId": 25,
+      "logoURI": "https://cronoscan.com/token/images/darkcryptodark_32.png"
     }
   ]
 }
-

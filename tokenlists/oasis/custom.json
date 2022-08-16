@@ -1,0 +1,44 @@
+{
+  "tokens": [
+    {
+      "name": "ValleySwap Token",
+      "address": "0xBC033203796CC2C8C543a5aAe93a9a643320433D",
+      "symbol": "VS",
+      "decimals": 18,
+      "chainId": 42262,
+      "logoURI": "https://tokens.autofarm.network/42262-0xbc033203796cc2c8c543a5aae93a9a643320433d.webp"
+    },
+    {
+      "name": "Tether USD",
+      "address": "0x6Cb9750a92643382e020eA9a170AbB83Df05F30B",
+      "symbol": "USDT",
+      "decimals": 6,
+      "chainId": 42262,
+      "logoURI": "https://tokens.autofarm.network/42262-0x6cb9750a92643382e020ea9a170abb83df05f30b.webp"
+    },
+    {
+      "name": "USD Coin",
+      "address": "0x94fbfFe5698DB6f54d6Ca524DbE673a7729014Be",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 42262,
+      "logoURI": "https://tokens.autofarm.network/42262-0x94fbffe5698db6f54d6ca524dbe673a7729014be.webp"
+    },
+    {
+      "name": "Bitcoin",
+      "address": "0x010CDf0Db2737f9407F8CFcb4dCaECA4dE54c815",
+      "symbol": "BTC",
+      "decimals": 8,
+      "chainId": 42262,
+      "logoURI": "https://tokens.autofarm.network/42262-0x010cdf0db2737f9407f8cfcb4dcaeca4de54c815.webp"
+    },
+    {
+      "name": "Ethereum Token",
+      "address": "0xE9b38eD157429483EbF87Cf6C002cecA5fd66783",
+      "symbol": "ETH",
+      "decimals": 18,
+      "chainId": 42262,
+      "logoURI": "https://tokens.autofarm.network/42262-0xe9b38ed157429483ebf87cf6c002ceca5fd66783.webp"
+    }
+  ]
+}

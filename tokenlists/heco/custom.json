@@ -1,0 +1,28 @@
+{
+  "tokens": [
+    {
+      "name": "Belt.fi beltHBTC HECO",
+      "address": "0x4Cd59EEB3a4D2fa5c35FD3dE0BA1723EeaF1D258",
+      "symbol": "beltHBTC",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://tokens.autofarm.network/128-0x4cd59eeb3a4d2fa5c35fd3de0ba1723eeaf1d258.webp"
+    },
+    {
+      "name": "Belt.fi beltETH HECO",
+      "address": "0xB1493B7bc8e260B0b25235ae5c34B0dC201ce8C3",
+      "symbol": "beltETH",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://tokens.autofarm.network/128-0xb1493b7bc8e260b0b25235ae5c34b0dc201ce8c3.webp"
+    },
+    {
+      "name": "Belt.fi beltHT HECO",
+      "address": "0x86f5C8EB736c95dd687182779edd792FEF0fA674",
+      "symbol": "beltHT",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://tokens.autofarm.network/128-0x86f5c8eb736c95dd687182779edd792fef0fa674.webp"
+    }
+  ]
+}

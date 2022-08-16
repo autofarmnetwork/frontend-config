@@ -49,6 +49,62 @@
       "decimals": 18,
       "chainId": 250,
       "logoURI": "https://tokens.autofarm.network/250-0x58e57ca18b7a47112b877e31929798cd3d703b0f.webp"
+    },
+    {
+      "name": "BASED",
+      "address": "0x8D7d3409881b51466B483B11Ea1B8A03cdEd89ae",
+      "symbol": "BASED",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://tokens.autofarm.network/250-0x8d7d3409881b51466b483b11ea1b8a03cded89ae.webp"
+    },
+    {
+      "name": "Based",
+      "address": "0x23654048e2Ee5E8414EEa67A7d1A1C02505B7e4a",
+      "symbol": "BASED",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://tokens.autofarm.network/250-0x23654048e2ee5e8414eea67a7d1a1c02505b7e4a.webp"
+    },
+    {
+      "name": "BSHARE",
+      "address": "0x49C290Ff692149A4E16611c694fdED42C954ab7a",
+      "symbol": "BSHARE",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://tokens.autofarm.network/250-0x49c290ff692149a4e16611c694fded42c954ab7a.webp"
+    },
+    {
+      "name": "Curve.fi DAI/USDC",
+      "address": "0x27E611FD27b276ACbd5Ffd632E5eAEBEC9761E40",
+      "symbol": "DAI+USDC",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://tokens.autofarm.network/250-0x27e611fd27b276acbd5ffd632e5eaebec9761e40.webp"
+    },
+    {
+      "name": "sFTMX",
+      "address": "0xd7028092c830b5C8FcE061Af2E593413EbbC1fc1",
+      "symbol": "sFTMX",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://tokens.autofarm.network/250-0xd7028092c830b5c8fce061af2e593413ebbc1fc1.webp"
+    },
+    {
+      "name": "TOR",
+      "address": "0x74E23dF9110Aa9eA0b6ff2fAEE01e740CA1c642e",
+      "symbol": "TOR",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://tokens.autofarm.network/250-0x74e23df9110aa9ea0b6ff2faee01e740ca1c642e.webp"
+    },
+    {
+      "name": "TrueUSD",
+      "address": "0x9879aBDea01a879644185341F7aF7d8343556B7a",
+      "symbol": "TUSD",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://tokens.autofarm.network/250-0x9879abdea01a879644185341f7af7d8343556b7a.webp"
     }
   ]
 }

@@ -1,0 +1,12 @@
+{
+  "tokens": [
+    {
+      "name": "Beamswap Token",
+      "address": "0xcd3B51D98478D53F4515A306bE565c6EebeF1D58",
+      "symbol": "GLINT",
+      "decimals": 18,
+      "chainId": 1284,
+      "logoURI": "https://tokens.autofarm.network/1284-0xcd3b51d98478d53f4515a306be565c6eebef1d58.webp"
+    }
+  ]
+}
