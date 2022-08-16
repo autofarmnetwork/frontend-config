@@ -1,4 +1,4 @@
 { pkgs ? import <nixpkgs> {} }:
 pkgs.mkShell {
-  buildInputs = [pkgs.jq pkgs.imgp pkgs.inkscape];
+  buildInputs = [pkgs.jq pkgs.s5cmd];
 }
