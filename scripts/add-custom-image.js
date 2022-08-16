@@ -12,10 +12,14 @@ const { uploadToS3 } = require('../spaces')
 const baseDir = './images'
 const TOKENS_BASE_URL = 'https://tokens.autofarm.network'
 
-async function addCustomToken(chainId, addressRaw, logoURI) {
+async function addCustomToken(chainIdOrChainKey, addressRaw, logoURI) {
+  const chainId = Number.isNaN(parseInt(chainIdOrChainKey)) && config.CHAINS[chainIdOrChainKey]
+    ? config.CHAINS[chainIdOrChainKey].chainId
+    : chainIdOrChainKey
+
   const address = ethers.utils.getAddress(addressRaw)
   const chainConfig = config.chainConfigs[chainId]
-  const customTokenList = require(`../tokenlists/${chainConfig.name}/custom.json`)
+  const customTokenList = require(`../tokenlists/${chainConfig.key.toLowerCase()}/custom.json`)
 
   const tokenIndex = customTokenList.tokens.map(({ address }) => address).indexOf(address)
 
@@ -62,6 +66,14 @@ async function addCustomToken(chainId, addressRaw, logoURI) {
     filename = chainId + '-' + address.toLowerCase() + '.' + extension
     filepath = path.join(baseDir, filename)
     await fs.writeFile(filepath, base64Data, 'base64')
+  } else if (logoURI.includes('svg;base64')) {
+    const base64Data = logoURI.replace(/^data:image\/svg;base64,/, "");
+    extension = 'svg'
+    filename = chainId + '-' + address.toLowerCase() + '.' + extension
+    filepath = path.join(baseDir, filename)
+    await fs.writeFile(filepath, base64Data, 'base64')
+  } else if (!logoURI.includes('http') && !path.isAbsolute(logoURI)) {
+    filepath = path.resolve(logoURI)
   } else if (!logoURI.includes('.svg')) {
     image = await axios({ method: 'get', url: logoURI, responseType: 'stream' })
 
@@ -85,12 +97,6 @@ async function addCustomToken(chainId, addressRaw, logoURI) {
     await fs.writeFile(filepath, image.data)
   }
 
-
-  if (!process.env.SPACES_KEY && !process.env.LOCAL) {
-    // process.stdout.write(JSON.stringify(farmData))
-    process.exit(0)
-    return
-  }
   console.error('Uploading image')
 
   console.log(filepath)
@@ -116,7 +122,7 @@ async function addCustomToken(chainId, addressRaw, logoURI) {
     logoURI: TOKENS_BASE_URL + '/' + newFilename
   })
   console.error(customTokenList)
-  await fs.writeFile(`./tokenlists/${chainConfig.name}/custom.json`, JSON.stringify(customTokenList, null, 2))
+  await fs.writeFile(`./tokenlists/${chainConfig.key.toLowerCase()}/custom.json`, JSON.stringify(customTokenList, null, 2))
 }
 
 addCustomToken(...process.argv.slice(2))

@@ -5,6 +5,10 @@ const fs = require('fs/promises')
 const path = require('path')
 const { set, over, lensPath } = require('ramda')
 const tokenlistsRoot = './tokenlists/';
+const { CHAINS } = require('autofarm-sdk')
+
+const sharp = require('sharp')
+const { uploadToS3 } = require('../spaces')
 
 const SKIP_LIST = [
   '0xaF6Bd11A6F8f9c44b9D18f5FA116E403db599f8E',
@@ -22,6 +26,8 @@ const SKIP_LIST = [
   '0xD90BBdf5904cb7d275c41f897495109B9A5adA58',
 ]
 
+console.log(CHAINS)
+/*
 const CHAINS = {
   BSC: 56,
   HECO: 128,
@@ -40,6 +46,7 @@ const CHAINS = {
   AURORA: 1313161554,
   OASIS: 42262,
 }
+*/
 
 const aggregatedTokenList = fsSync.readdirSync(tokenlistsRoot, { withFileTypes: true })
   .filter(dirent => dirent.isDirectory())
@@ -92,7 +99,7 @@ const aggregatedTokenList = fsSync.readdirSync(tokenlistsRoot, { withFileTypes: 
     if (acc.map[token.chainId][token.address.toLowerCase()]) {
       return acc
     }
-    if (!Object.values(CHAINS).includes(parseInt(token.chainId))) {
+    if (!Object.values(CHAINS).includes(String(token.chainId))) {
       return acc
     }
     return {
@@ -133,7 +140,10 @@ const tokensBaseURL = 'https://tokens.autofarm.network'
 async function downloadImages() {
   let tokensDownloadedImage = fsSync.readdirSync(baseDir)
     .reduce((acc, f) => {
-      const ca = f.split('.')[0]
+      const [ca, ext] = f.split('.')
+      if (ext !== 'webp') {
+        return acc
+      }
       const [c, a] = ca.split('-')
       if (!a) {
         return acc
@@ -174,8 +184,25 @@ async function downloadImages() {
     const extension = mime.extension(image.headers['content-type'])
     const filename = token.chainId + '-' + token.address.toLowerCase() + '.' + extension
     const filepath = path.join(baseDir, filename)
-    image.data.pipe(fsSync.createWriteStream(filepath))
-    token.logoURI = tokensBaseURL + '/' + filename
+    const stream = image.data.pipe(fsSync.createWriteStream(filepath))
+    await new Promise(resolve => {
+      stream.on('finish', () => {
+        resolve()
+      })
+    })
+
+    const newFilename = token.chainId + '-' + token.address.toLowerCase() + '.webp'
+    const newFilePath = 'images/' +  newFilename
+    console.error(filepath)
+    const inputBuffer = fsSync.readFileSync(filepath)
+    await sharp(inputBuffer)
+      .resize(128, 128)
+      .toFile(newFilePath)
+    console.error('converted to webp')
+    const imageData = fsSync.readFileSync(newFilePath)
+    await uploadToS3(newFilename, imageData, 'image/webp')
+
+    token.logoURI = tokensBaseURL + '/' + newFilename
     delete token.logoURIs
     // await fs.writeFile(, image.data)
     //break
