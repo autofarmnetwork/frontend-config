@@ -1,5 +1,6 @@
 node_modules
 images
+images-new
 .DS_Store
 .envrc
 .direnv
